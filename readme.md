@@ -17,4 +17,4 @@
 - `readme.md`: This file
 
 
-![alt text](https://github.com/z-dickson/lancet-submission-data/blob/appendix/indicator_5_3_3.png?raw=true)
+![alt text](appendix/indicator_5_3_3.png)
