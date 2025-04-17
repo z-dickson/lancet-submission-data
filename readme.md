@@ -15,3 +15,6 @@
   - `indicator_5_3_3_country.csv`: Indicator values by country instead of party family
 - `appendix`: Appendix with figures and tables, including pdf, latex, markdown and .docx versions
 - `readme.md`: This file
+
+
+![alt text](https://github.com/z-dickson/lancet-submission-data/blob/appendix/indicator_5_3_3.png?raw=true)
