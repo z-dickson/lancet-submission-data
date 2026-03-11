@@ -1,0 +1,1236 @@
+country,party,party_family,year,environment_climate_mean,healthcare_mean,climate_health_mean,n_total,low_data
+Austria,Austrian People's Party,Christian Democracy,2010.0,0.013685239491691105,0.021505376344086023,0.0,1023,False
+Austria,Austrian People's Party,Christian Democracy,2011.0,0.027477102414654453,0.027477102414654453,0.0,1201,False
+Austria,Austrian People's Party,Christian Democracy,2012.0,0.014184397163120567,0.031914893617021274,0.0,846,False
+Austria,Austrian People's Party,Christian Democracy,2013.0,0.012345679012345678,0.03367003367003367,0.0,891,False
+Austria,Austrian People's Party,Christian Democracy,2014.0,0.010714285714285714,0.04107142857142857,0.0,1680,False
+Austria,Austrian People's Party,Christian Democracy,2015.0,0.01834862385321101,0.028228652081863093,0.0,1417,False
+Austria,Austrian People's Party,Christian Democracy,2016.0,0.019984012789768184,0.037569944044764186,0.0,1251,False
+Austria,Austrian People's Party,Christian Democracy,2017.0,0.028037383177570093,0.03387850467289719,0.0,856,False
+Austria,Austrian People's Party,Christian Democracy,2018.0,0.034482758620689655,0.03183023872679045,0.0,754,False
+Austria,Austrian People's Party,Christian Democracy,2019.0,0.03183023872679045,0.010610079575596816,0.0,754,False
+Austria,Austrian People's Party,Christian Democracy,2020.0,0.02511415525114155,0.1141552511415525,0.0,438,False
+Austria,Austrian People's Party,Christian Democracy,2021.0,0.013888888888888888,0.10555555555555556,0.0,360,False
+Austria,Austrian People's Party,Christian Democracy,2022.0,0.013636363636363636,0.02727272727272727,0.0,220,False
+Austria,Austrian People's Party,Christian Democracy,2023.0,0.04087193460490463,0.010899182561307902,0.0,367,False
+Austria,Austrian People's Party,Christian Democracy,2024.0,0.01884057971014493,0.015942028985507246,0.0,690,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2010.0,0.017163148550009864,0.06510159794831327,0.0005918327086210298,5069,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2011.0,0.015092613766293162,0.05579693574205351,0.000457351932311914,4373,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2012.0,0.012934518997574777,0.04203718674211803,0.0,3711,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2013.0,0.009059419131361577,0.030109245936584067,0.0,3753,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2014.0,0.009745363093366866,0.044954416850047155,0.0,3181,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2015.0,0.009771986970684038,0.03764024610930149,0.0,2763,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2016.0,0.006294256490952006,0.053107789142407553,0.0,2542,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2017.0,0.015616285554935862,0.0652537646402677,0.0,1793,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2018.0,0.02145110410094637,0.0416403785488959,0.0,1585,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2019.0,0.0304437564499484,0.03663570691434469,0.0,1938,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2020.0,0.03468780971258672,0.12685827552031714,0.0,3027,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2021.0,0.031178358551123338,0.17056396148555708,0.0,2181,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2022.0,0.05526859504132232,0.12138429752066116,0.0010330578512396695,1936,False
+Austria,Freedom Party of Austria,Radical Right-Wing,2023.0,0.05405405405405406,0.0,0.0,37,True
+Austria,Freedom Party of Austria,Radical Right-Wing,2024.0,0.007407407407407408,0.0,0.0,135,False
+Austria,NEOS -- The New Austria,Liberal,2013.0,0.0,0.0,0.0,25,True
+Austria,NEOS -- The New Austria,Liberal,2014.0,0.014064697609001406,0.01969057665260197,0.0,711,False
+Austria,NEOS -- The New Austria,Liberal,2015.0,0.009768009768009768,0.045177045177045176,0.0,819,False
+Austria,NEOS -- The New Austria,Liberal,2016.0,0.004750593824228029,0.040380047505938245,0.0,842,False
+Austria,NEOS -- The New Austria,Liberal,2017.0,0.012249443207126948,0.10801781737193764,0.0,898,False
+Austria,NEOS -- The New Austria,Liberal,2018.0,0.03957131079967024,0.08738664468260511,0.0,1213,False
+Austria,NEOS -- The New Austria,Liberal,2019.0,0.05442176870748299,0.07407407407407407,0.0,1323,False
+Austria,NEOS -- The New Austria,Liberal,2020.0,0.03376205787781351,0.1414790996784566,0.0008038585209003215,1244,False
+Austria,NEOS -- The New Austria,Liberal,2021.0,0.06461538461538462,0.19846153846153847,0.0,650,False
+Austria,NEOS -- The New Austria,Liberal,2022.0,0.06069364161849711,0.06069364161849711,0.0,346,False
+Austria,NEOS -- The New Austria,Liberal,2023.0,0.029411764705882353,0.0,0.0,34,True
+Austria,NEOS -- The New Austria,Liberal,2024.0,0.010810810810810811,0.005405405405405406,0.0,185,False
+Austria,Social Democratic Party of Austria,Social Democracy,2010.0,0.03801732435033686,0.04427333974975938,0.00048123195380173246,2078,False
+Austria,Social Democratic Party of Austria,Social Democracy,2011.0,0.0305,0.037,0.0,2000,False
+Austria,Social Democratic Party of Austria,Social Democracy,2012.0,0.026607538802660754,0.03436807095343681,0.0005543237250554324,1804,False
+Austria,Social Democratic Party of Austria,Social Democracy,2013.0,0.025871766029246346,0.02924634420697413,0.0,1778,False
+Austria,Social Democratic Party of Austria,Social Democracy,2014.0,0.023668639053254437,0.04980276134122288,0.0,2028,False
+Austria,Social Democratic Party of Austria,Social Democracy,2015.0,0.03541315345699832,0.03372681281618887,0.0,1779,False
+Austria,Social Democratic Party of Austria,Social Democracy,2016.0,0.03473613894455578,0.03807615230460922,0.0006680026720106881,1497,False
+Austria,Social Democratic Party of Austria,Social Democracy,2017.0,0.037037037037037035,0.04139433551198257,0.0,1377,False
+Austria,Social Democratic Party of Austria,Social Democracy,2018.0,0.03764705882352941,0.04752941176470588,0.002352941176470588,2125,False
+Austria,Social Democratic Party of Austria,Social Democracy,2019.0,0.050955414012738856,0.03949044585987261,0.0,2355,False
+Austria,Social Democratic Party of Austria,Social Democracy,2020.0,0.035945363048166784,0.0905823148813803,0.0,1391,False
+Austria,Social Democratic Party of Austria,Social Democracy,2021.0,0.021850899742930592,0.09897172236503857,0.0,778,False
+Austria,Social Democratic Party of Austria,Social Democracy,2022.0,0.03872216844143272,0.03581800580832527,0.0,1033,False
+Austria,Social Democratic Party of Austria,Social Democracy,2023.0,0.019390581717451522,0.00554016620498615,0.0,361,False
+Austria,Social Democratic Party of Austria,Social Democracy,2024.0,0.009879253567508232,0.043907793633369926,0.0,911,False
+Austria,The Greens -- The Green Alternative,Green,2010.0,0.046398891966759004,0.04155124653739612,0.0,1444,False
+Austria,The Greens -- The Green Alternative,Green,2011.0,0.04390243902439024,0.03902439024390244,0.0006968641114982578,1435,False
+Austria,The Greens -- The Green Alternative,Green,2012.0,0.04415823367065318,0.02667893284268629,0.0,1087,False
+Austria,The Greens -- The Green Alternative,Green,2013.0,0.04257332071901608,0.036896877956480605,0.0,1057,False
+Austria,The Greens -- The Green Alternative,Green,2014.0,0.062086092715231786,0.050496688741721855,0.0,1208,False
+Austria,The Greens -- The Green Alternative,Green,2015.0,0.06313131313131314,0.04208754208754209,0.0,1188,False
+Austria,The Greens -- The Green Alternative,Green,2016.0,0.06437768240343347,0.043991416309012876,0.0,932,False
+Austria,The Greens -- The Green Alternative,Green,2017.0,0.09544159544159544,0.05413105413105413,0.0,702,False
+Austria,The Greens -- The Green Alternative,Green,2018.0,0.12626262626262627,0.0,0.0,198,False
+Austria,The Greens -- The Green Alternative,Green,2019.0,0.25340599455040874,0.005449591280653951,0.0,367,False
+Austria,The Greens -- The Green Alternative,Green,2020.0,0.19452054794520549,0.052054794520547946,0.005479452054794521,365,False
+Austria,The Greens -- The Green Alternative,Green,2021.0,0.5370370370370371,0.037037037037037035,0.0,108,False
+Austria,The Greens -- The Green Alternative,Green,2022.0,0.422680412371134,0.030927835051546393,0.0,97,False
+Austria,The Greens -- The Green Alternative,Green,2023.0,0.5222222222222223,0.03333333333333333,0.011111111111111112,90,False
+Austria,The Greens -- The Green Alternative,Green,2024.0,0.46017699115044247,0.01327433628318584,0.0,226,False
+Belgium,Flemish Block | Flemish Interest,Radical Right-Wing,2023.0,0.02127659574468085,0.0425531914893617,0.0,47,False
+Belgium,Flemish Block | Flemish Interest,Radical Right-Wing,2024.0,0.018808777429467086,0.029258098223615466,0.0,957,False
+Belgium,Workers' Party of Belgium,Communist/Socialist,2023.0,0.043478260869565216,0.07246376811594203,0.0,69,False
+Belgium,Workers' Party of Belgium,Communist/Socialist,2024.0,0.0136986301369863,0.0502283105022831,0.0,219,False
+Bulgaria,Citizens for European Development of Bulgaria,Radical Right-Wing,2024.0,0.028616852146263912,0.06359300476947535,0.0,629,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2016.0,0.02564102564102564,0.0,0.0,78,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2017.0,0.015193370165745856,0.04074585635359116,0.0,1448,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2018.0,0.010478061558611657,0.06155861165684348,0.0,1527,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2019.0,0.021848739495798318,0.039775910364145656,0.0005602240896358543,1785,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2020.0,0.036737692872887584,0.09478324761204997,0.0,1361,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2021.0,0.018494897959183673,0.08099489795918367,0.0,1568,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2022.0,0.015259895088221268,0.01859799713876967,0.0,2097,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2023.0,0.02053915275994865,0.01540436456996149,0.0,1558,False
+Bulgaria,Coalition for Bulgaria | Democratic Left,Social Democracy,2024.0,0.03286189683860233,0.027870216306156406,0.0,2404,False
+Bulgaria,There Is Such a People,Conservative,2021.0,0.014423076923076924,0.0625,0.0,208,False
+Bulgaria,There Is Such a People,Conservative,2022.0,0.026905829596412557,0.017937219730941704,0.0,223,False
+Bulgaria,There Is Such a People,Conservative,2023.0,0.030927835051546393,0.020618556701030927,0.0,97,False
+Bulgaria,There Is Such a People,Conservative,2024.0,0.006944444444444444,0.05555555555555555,0.0,144,False
+Bulgaria,We Continue the Change,Special Issue,2021.0,0.056179775280898875,0.07865168539325842,0.0,89,False
+Bulgaria,We Continue the Change,Special Issue,2022.0,0.02247191011235955,0.033707865168539325,0.0,178,False
+Bulgaria,We Continue the Change,Special Issue,2023.0,0.037383177570093455,0.09345794392523364,0.0,107,False
+Bulgaria,We Continue the Change,Special Issue,2024.0,0.010416666666666666,0.1076388888888889,0.0,288,False
+Croatia,Bridge of Independent Lists,Conservative,2016.0,0.061224489795918366,0.030612244897959183,0.0,98,False
+Croatia,Bridge of Independent Lists,Conservative,2017.0,0.0547945205479452,0.0273972602739726,0.0,73,False
+Croatia,Bridge of Independent Lists,Conservative,2018.0,0.08333333333333333,0.05303030303030303,0.0,132,False
+Croatia,Bridge of Independent Lists,Conservative,2019.0,0.11688311688311688,0.07792207792207792,0.0,77,False
+Croatia,Bridge of Independent Lists,Conservative,2020.0,0.06666666666666667,0.08,0.0,75,False
+Croatia,Bridge of Independent Lists,Conservative,2021.0,0.041176470588235294,0.12352941176470589,0.0,170,False
+Croatia,Bridge of Independent Lists,Conservative,2022.0,0.020689655172413793,0.04827586206896552,0.0,145,False
+Croatia,Bridge of Independent Lists,Conservative,2023.0,0.043478260869565216,0.08695652173913043,0.0,46,False
+Croatia,Bridge of Independent Lists,Conservative,2024.0,0.043478260869565216,0.13043478260869565,0.0,23,True
+Croatia,Croatian Democratic Union,Christian Democracy,2019.0,0.0011389521640091116,0.010250569476082005,0.0,878,False
+Croatia,Croatian Democratic Union,Christian Democracy,2020.0,0.0023584905660377358,0.14386792452830188,0.0,848,False
+Croatia,Croatian Democratic Union,Christian Democracy,2021.0,0.011204481792717087,0.11064425770308123,0.0,714,False
+Croatia,Croatian Democratic Union,Christian Democracy,2022.0,0.006051437216338881,0.009077155824508321,0.0,661,False
+Croatia,Croatian Democratic Union,Christian Democracy,2023.0,0.012519561815336464,0.012519561815336464,0.001564945226917058,639,False
+Croatia,Croatian Democratic Union,Christian Democracy,2024.0,0.0029069767441860465,0.006782945736434108,0.0,1032,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2010.0,0.03763440860215054,0.010752688172043012,0.0,186,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2011.0,0.025210084033613446,0.004201680672268907,0.004201680672268907,238,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2012.0,0.011494252873563218,0.011494252873563218,0.0,87,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2013.0,0.0,0.0,0.0,55,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2014.0,0.0,0.0,0.0,13,True
+Croatia,Social Democratic Party of Croatia,Social Democracy,2015.0,0.062111801242236024,0.09937888198757763,0.0,322,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2016.0,0.0,0.048484848484848485,0.0,165,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2017.0,0.005681818181818182,0.017045454545454544,0.0,176,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2018.0,0.012658227848101266,0.04113924050632911,0.0,316,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2019.0,0.02100840336134454,0.046218487394957986,0.0,238,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2020.0,0.02263374485596708,0.12139917695473251,0.0,486,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2021.0,0.020155038759689922,0.10852713178294573,0.0,645,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2022.0,0.024934383202099737,0.05643044619422572,0.0,762,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2023.0,0.04190260475651189,0.07021517553793885,0.0,883,False
+Croatia,Social Democratic Party of Croatia,Social Democracy,2024.0,0.01745877788554801,0.0475266731328807,0.0,1031,False
+Croatia,We Can! -- Political Platform,Green,2019.0,0.17857142857142858,0.03571428571428571,0.0,28,True
+Croatia,We Can! -- Political Platform,Green,2020.0,0.05649717514124294,0.01694915254237288,0.0,177,False
+Croatia,We Can! -- Political Platform,Green,2021.0,0.09090909090909091,0.030303030303030304,0.0,33,True
+Croatia,We Can! -- Political Platform,Green,2022.0,0.10526315789473684,0.05263157894736842,0.0,19,True
+Croatia,We Can! -- Political Platform,Green,2023.0,0.15217391304347827,0.043478260869565216,0.0,46,False
+Croatia,We Can! -- Political Platform,Green,2024.0,0.07784431137724551,0.07784431137724551,0.0,167,False
+Cyprus,Democratic Party,Conservative,2017.0,0.00847457627118644,0.06779661016949153,0.0,118,False
+Cyprus,Democratic Party,Conservative,2018.0,0.009036144578313253,0.03614457831325301,0.0,332,False
+Cyprus,Democratic Party,Conservative,2019.0,0.018648018648018648,0.04895104895104895,0.0,429,False
+Cyprus,Democratic Party,Conservative,2020.0,0.012797074954296161,0.06398537477148081,0.0,547,False
+Cyprus,Democratic Party,Conservative,2021.0,0.007194244604316547,0.0737410071942446,0.0,556,False
+Cyprus,Democratic Party,Conservative,2022.0,0.012315270935960592,0.05665024630541872,0.0,406,False
+Cyprus,Democratic Party,Conservative,2023.0,0.00963855421686747,0.05783132530120482,0.0,415,False
+Cyprus,Democratic Party,Conservative,2024.0,0.01576872536136662,0.06044678055190539,0.0,761,False
+Cyprus,Democratic Rally,Conservative,2011.0,0.0,0.0,0.0,1,True
+Cyprus,Democratic Rally,Conservative,2020.0,0.015306122448979591,0.04421768707482993,0.0,588,False
+Cyprus,Democratic Rally,Conservative,2021.0,0.033364226135310475,0.07136237256719184,0.0009267840593141798,1079,False
+Cyprus,Democratic Rally,Conservative,2022.0,0.024739583333333332,0.059895833333333336,0.0,768,False
+Cyprus,Democratic Rally,Conservative,2023.0,0.0020491803278688526,0.03278688524590164,0.0,488,False
+Cyprus,Democratic Rally,Conservative,2024.0,0.0,0.0,0.0,1,True
+Cyprus,Movement for Social Democracy EDEK,Social Democracy,2021.0,0.008547008547008548,0.06837606837606838,0.0,117,False
+Cyprus,Movement for Social Democracy EDEK,Social Democracy,2022.0,0.010416666666666666,0.05555555555555555,0.0,288,False
+Cyprus,Movement for Social Democracy EDEK,Social Democracy,2023.0,0.01694915254237288,0.04067796610169491,0.0,295,False
+Cyprus,Movement for Social Democracy EDEK,Social Democracy,2024.0,0.0022026431718061676,0.04405286343612335,0.0,454,False
+Cyprus,National Popular Front,Radical Right-Wing,2017.0,0.006622516556291391,0.013245033112582781,0.0,302,False
+Cyprus,National Popular Front,Radical Right-Wing,2018.0,0.001876172607879925,0.0300187617260788,0.0,533,False
+Cyprus,National Popular Front,Radical Right-Wing,2019.0,0.01647058823529412,0.011764705882352941,0.0,850,False
+Cyprus,National Popular Front,Radical Right-Wing,2020.0,0.00995575221238938,0.02765486725663717,0.0,904,False
+Cyprus,National Popular Front,Radical Right-Wing,2021.0,0.003436426116838488,0.061855670103092786,0.0,873,False
+Cyprus,National Popular Front,Radical Right-Wing,2022.0,0.0117096018735363,0.01639344262295082,0.0,854,False
+Cyprus,National Popular Front,Radical Right-Wing,2023.0,0.00473186119873817,0.02050473186119874,0.0,634,False
+Cyprus,National Popular Front,Radical Right-Wing,2024.0,0.0022396416573348264,0.019036954087346025,0.0,893,False
+Cyprus,Progressive Party of Working People,Communist/Socialist,2021.0,0.046620046620046623,0.05827505827505827,0.0,429,False
+Cyprus,Progressive Party of Working People,Communist/Socialist,2022.0,0.03566529492455418,0.04801097393689986,0.0013717421124828531,729,False
+Cyprus,Progressive Party of Working People,Communist/Socialist,2023.0,0.03728813559322034,0.05593220338983051,0.0,590,False
+Cyprus,Progressive Party of Working People,Communist/Socialist,2024.0,0.033628318584070796,0.03716814159292035,0.0,1130,False
+Czech Republic,Civic Democratic Party,Conservative,2017.0,0.0,0.0547945205479452,0.0,146,False
+Czech Republic,Civic Democratic Party,Conservative,2018.0,0.017543859649122806,0.017543859649122806,0.0,228,False
+Czech Republic,Civic Democratic Party,Conservative,2019.0,0.03492063492063492,0.012698412698412698,0.0,315,False
+Czech Republic,Civic Democratic Party,Conservative,2020.0,0.037209302325581395,0.08604651162790698,0.0,430,False
+Czech Republic,Civic Democratic Party,Conservative,2021.0,0.04189944134078212,0.15083798882681565,0.0,358,False
+Czech Republic,Civic Democratic Party,Conservative,2022.0,0.01937984496124031,0.023255813953488372,0.0,258,False
+Czech Republic,Civic Democratic Party,Conservative,2023.0,0.06578947368421052,0.02631578947368421,0.002631578947368421,380,False
+Czech Republic,Civic Democratic Party,Conservative,2024.0,0.028037383177570093,0.020560747663551402,0.0,535,False
+Czech Republic,Freedom and Direct Democracy,Radical Right-Wing,2020.0,0.0059031877213695395,0.011806375442739079,0.0,847,False
+Czech Republic,Freedom and Direct Democracy,Radical Right-Wing,2021.0,0.004230118443316413,0.018612521150592216,0.0,1182,False
+Czech Republic,Freedom and Direct Democracy,Radical Right-Wing,2022.0,0.0,0.012376237623762377,0.0,404,False
+Czech Republic,Freedom and Direct Democracy,Radical Right-Wing,2023.0,0.027777777777777776,0.018518518518518517,0.0,108,False
+Czech Republic,Freedom and Direct Democracy,Radical Right-Wing,2024.0,0.01774622892635315,0.0026619343389529724,0.0,1127,False
+Czech Republic,KDU-ČSL - Christian and Democratic Union & Czechoslovak People's Party,Christian Democracy,2024.0,0.22532188841201717,0.027896995708154508,0.0,932,False
+Czech Republic,Mayors and Independents,Liberal,2015.0,0.034482758620689655,0.017241379310344827,0.0,58,False
+Czech Republic,Mayors and Independents,Liberal,2016.0,0.02564102564102564,0.0,0.0,78,False
+Czech Republic,Mayors and Independents,Liberal,2017.0,0.012048192771084338,0.024096385542168676,0.0,83,False
+Czech Republic,Mayors and Independents,Liberal,2018.0,0.0196078431372549,0.0,0.0,102,False
+Czech Republic,Mayors and Independents,Liberal,2019.0,0.08,0.0,0.0,125,False
+Czech Republic,Mayors and Independents,Liberal,2020.0,0.03164556962025317,0.10759493670886076,0.0,158,False
+Czech Republic,Mayors and Independents,Liberal,2021.0,0.024390243902439025,0.14634146341463414,0.0,164,False
+Czech Republic,Mayors and Independents,Liberal,2022.0,0.022222222222222223,0.044444444444444446,0.0,90,False
+Czech Republic,Mayors and Independents,Liberal,2023.0,0.0,0.015151515151515152,0.0,66,False
+Czech Republic,Mayors and Independents,Liberal,2024.0,0.013157894736842105,0.0,0.0,76,False
+Czech_Republic,Action of Dissatisfied Citizens 2011,Liberal,2024.0,0.02376599634369287,0.003656307129798903,0.0,547,False
+Czech_Republic,Civic Democratic Party,Conservative,2024.0,0.051470588235294115,0.025735294117647058,0.0,272,False
+Czech_Republic,KDU-ČSL - Christian and Democratic Union & Czechoslovak People's Party,Christian Democracy,2024.0,0.14241486068111456,0.01238390092879257,0.0,323,False
+Denmark,A (Å),Green,2013.0,1.0,0.0,0.0,1,True
+Denmark,A (Å),Green,2014.0,0.15384615384615385,0.0,0.0,13,True
+Denmark,A (Å),Green,2015.0,0.2926829268292683,0.08536585365853659,0.0,82,False
+Denmark,A (Å),Green,2016.0,0.2037037037037037,0.018518518518518517,0.0,54,False
+Denmark,A (Å),Green,2017.0,0.21212121212121213,0.0,0.0,33,True
+Denmark,A (Å),Green,2018.0,0.0,0.14285714285714285,0.0,7,True
+Denmark,A (Å),Green,2019.0,0.3,0.06666666666666667,0.0,30,True
+Denmark,A (Å),Green,2020.0,0.2692307692307692,0.038461538461538464,0.0,26,True
+Denmark,A (Å),Green,2021.0,0.3333333333333333,0.3333333333333333,0.0,6,True
+Denmark,A (Å),Green,2022.0,0.09090909090909091,0.09090909090909091,0.0,11,True
+Denmark,DF (O),Radical Right-Wing,2010.0,0.0,0.0,0.0,47,False
+Denmark,DF (O),Radical Right-Wing,2011.0,0.0,0.04,0.0,50,False
+Denmark,DF (O),Radical Right-Wing,2012.0,0.0,0.0,0.0,59,False
+Denmark,DF (O),Radical Right-Wing,2013.0,0.02,0.0,0.0,50,False
+Denmark,DF (O),Radical Right-Wing,2014.0,0.017857142857142856,0.05357142857142857,0.0,56,False
+Denmark,DF (O),Radical Right-Wing,2015.0,0.0,0.05660377358490566,0.0,53,False
+Denmark,DF (O),Radical Right-Wing,2016.0,0.0,0.0,0.0,57,False
+Denmark,DF (O),Radical Right-Wing,2017.0,0.012195121951219513,0.036585365853658534,0.0,82,False
+Denmark,DF (O),Radical Right-Wing,2018.0,0.0,0.043478260869565216,0.0,69,False
+Denmark,DF (O),Radical Right-Wing,2019.0,0.0784313725490196,0.0392156862745098,0.0,51,False
+Denmark,DF (O),Radical Right-Wing,2020.0,0.015873015873015872,0.1111111111111111,0.0,63,False
+Denmark,DF (O),Radical Right-Wing,2021.0,0.0,0.06896551724137931,0.0,29,True
+Denmark,DF (O),Radical Right-Wing,2022.0,0.0,0.0,0.0,15,True
+Denmark,DF (O),Radical Right-Wing,2023.0,0.0,0.0,0.0,28,True
+Denmark,DF (O),Radical Right-Wing,2024.0,0.0,0.0,0.0,13,True
+Denmark,Liberal Party,Liberal,2014.0,0.0,0.1111111111111111,0.0,27,True
+Denmark,Liberal Party,Liberal,2015.0,0.013888888888888888,0.041666666666666664,0.0,72,False
+Denmark,Liberal Party,Liberal,2016.0,0.0,0.07407407407407407,0.0,27,True
+Denmark,Liberal Party,Liberal,2017.0,0.0,0.0,0.0,31,True
+Denmark,Liberal Party,Liberal,2019.0,0.06896551724137931,0.06896551724137931,0.0,29,True
+Denmark,Liberal Party,Liberal,2020.0,0.10059171597633136,0.10059171597633136,0.0,169,False
+Denmark,Liberal Party,Liberal,2021.0,0.04854368932038835,0.06796116504854369,0.0,103,False
+Denmark,Liberal Party,Liberal,2022.0,0.08791208791208792,0.08791208791208792,0.0,91,False
+Denmark,Liberal Party,Liberal,2023.0,0.046296296296296294,0.046296296296296294,0.0,108,False
+Denmark,Liberal Party,Liberal,2024.0,0.059782608695652176,0.11413043478260869,0.0,184,False
+Denmark,NY-Liberal Alliance,Liberal,2019.0,0.25,0.0,0.0,4,True
+Denmark,NY-Liberal Alliance,Liberal,2020.0,0.0,0.07142857142857142,0.0,42,False
+Denmark,NY-Liberal Alliance,Liberal,2021.0,0.056338028169014086,0.014084507042253521,0.0,71,False
+Denmark,NY-Liberal Alliance,Liberal,2022.0,0.027522935779816515,0.027522935779816515,0.0,109,False
+Denmark,NY-Liberal Alliance,Liberal,2023.0,0.0,0.0,0.0,12,True
+Denmark,NY-Liberal Alliance,Liberal,2024.0,0.13636363636363635,0.045454545454545456,0.0,22,True
+Denmark,RG (Ø),Communist/Socialist,2010.0,0.06,0.13,0.0,100,False
+Denmark,RG (Ø),Communist/Socialist,2011.0,0.0,0.1,0.0,20,True
+Denmark,RG (Ø),Communist/Socialist,2012.0,0.06756756756756757,0.02702702702702703,0.0,74,False
+Denmark,RG (Ø),Communist/Socialist,2013.0,0.07272727272727272,0.045454545454545456,0.0,110,False
+Denmark,RG (Ø),Communist/Socialist,2014.0,0.10833333333333334,0.029166666666666667,0.0,240,False
+Denmark,RG (Ø),Communist/Socialist,2015.0,0.0851063829787234,0.005319148936170213,0.0,188,False
+Denmark,RG (Ø),Communist/Socialist,2016.0,0.0,0.0,0.0,53,False
+Denmark,RG (Ø),Communist/Socialist,2017.0,0.0326530612244898,0.044897959183673466,0.0,490,False
+Denmark,RG (Ø),Communist/Socialist,2018.0,0.037940379403794036,0.05420054200542006,0.0,369,False
+Denmark,RG (Ø),Communist/Socialist,2019.0,0.1343669250645995,0.08010335917312661,0.0,387,False
+Denmark,RG (Ø),Communist/Socialist,2020.0,0.1640378548895899,0.056782334384858045,0.0,317,False
+Denmark,RG (Ø),Communist/Socialist,2021.0,0.09941520467836257,0.05263157894736842,0.0,171,False
+Denmark,RG (Ø),Communist/Socialist,2022.0,0.1724137931034483,0.034482758620689655,0.0,116,False
+Denmark,RG (Ø),Communist/Socialist,2023.0,0.4835164835164835,0.01098901098901099,0.0,91,False
+Denmark,RG (Ø),Communist/Socialist,2024.0,0.1837837837837838,0.0,0.0,185,False
+Denmark,RV (B),Liberal,2014.0,0.06369426751592357,0.05732484076433121,0.0,157,False
+Denmark,RV (B),Liberal,2015.0,0.10112359550561797,0.0056179775280898875,0.0,178,False
+Denmark,RV (B),Liberal,2016.0,0.03825136612021858,0.00546448087431694,0.0,183,False
+Denmark,RV (B),Liberal,2017.0,0.029585798816568046,0.03550295857988166,0.0,169,False
+Denmark,RV (B),Liberal,2018.0,0.09411764705882353,0.03529411764705882,0.0,85,False
+Denmark,RV (B),Liberal,2019.0,0.045454545454545456,0.0,0.0,22,True
+Denmark,RV (B),Liberal,2020.0,0.0,0.0,0.0,6,True
+Denmark,RV (B),Liberal,2021.0,1.0,0.0,0.0,1,True
+Denmark,Social Democrats,Social Democracy,2015.0,0.011494252873563218,0.034482758620689655,0.0,87,False
+Denmark,Social Democrats,Social Democracy,2016.0,0.0,0.0392156862745098,0.0,51,False
+Denmark,Social Democrats,Social Democracy,2017.0,0.01818181818181818,0.05454545454545454,0.0,55,False
+Denmark,Social Democrats,Social Democracy,2018.0,0.13636363636363635,0.022727272727272728,0.0,44,False
+Denmark,Social Democrats,Social Democracy,2019.0,0.13333333333333333,0.06666666666666667,0.0,15,True
+Denmark,Socialist Peoples Party,Green,2018.0,0.3448275862068966,0.0,0.0,29,True
+Denmark,Socialist Peoples Party,Green,2019.0,0.18309859154929578,0.028169014084507043,0.0,142,False
+Denmark,Socialist Peoples Party,Green,2020.0,0.16666666666666666,0.07692307692307693,0.0,78,False
+Denmark,Socialist Peoples Party,Green,2021.0,0.15789473684210525,0.18421052631578946,0.0,38,True
+Denmark,Socialist Peoples Party,Green,2022.0,0.24324324324324326,0.08108108108108109,0.0,37,True
+Denmark,Socialist Peoples Party,Green,2023.0,0.22857142857142856,0.08571428571428572,0.0,35,True
+Denmark,Socialist Peoples Party,Green,2024.0,0.18032786885245902,0.04918032786885246,0.0,61,False
+Estonia,Estonian Centre Party,Social Democracy,2022.0,0.033816425120772944,0.04589371980676329,0.0,414,False
+Estonia,Estonian Centre Party,Social Democracy,2023.0,0.03490759753593429,0.024640657084188913,0.0,487,False
+Estonia,Estonian Centre Party,Social Democracy,2024.0,0.024096385542168676,0.028730305838739572,0.0,1079,False
+Estonia,Estonian Reform Party,Liberal,2014.0,0.05405405405405406,0.02702702702702703,0.0,37,True
+Estonia,Estonian Reform Party,Liberal,2015.0,0.03553299492385787,0.015228426395939087,0.0,197,False
+Estonia,Estonian Reform Party,Liberal,2016.0,0.014705882352941176,0.014705882352941176,0.0,204,False
+Estonia,Estonian Reform Party,Liberal,2017.0,0.013114754098360656,0.022950819672131147,0.0,305,False
+Estonia,Estonian Reform Party,Liberal,2018.0,0.015873015873015872,0.03571428571428571,0.0,252,False
+Estonia,Estonian Reform Party,Liberal,2019.0,0.05504587155963303,0.01834862385321101,0.0,109,False
+Estonia,Estonian Reform Party,Liberal,2020.0,0.017857142857142856,0.05952380952380952,0.0,168,False
+Estonia,Estonian Reform Party,Liberal,2021.0,0.0446927374301676,0.1787709497206704,0.0,179,False
+Estonia,Estonian Reform Party,Liberal,2022.0,0.011320754716981131,0.026415094339622643,0.0,265,False
+Estonia,Estonian Reform Party,Liberal,2023.0,0.07009345794392523,0.018691588785046728,0.0,214,False
+Estonia,Estonian Reform Party,Liberal,2024.0,0.043316831683168314,0.038366336633663366,0.0,808,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2017.0,0.024096385542168676,0.006024096385542169,0.0,166,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2018.0,0.005025125628140704,0.035175879396984924,0.0,199,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2019.0,0.0,0.006993006993006993,0.0,143,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2020.0,0.023255813953488372,0.046511627906976744,0.0,43,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2021.0,0.024390243902439025,0.0975609756097561,0.0,41,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2022.0,0.06382978723404255,0.02127659574468085,0.0,47,False
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2023.0,0.0,0.0,0.0,26,True
+Estonia,People's Union of Estonia / Conservative People's Party,Conservative,2024.0,0.1,0.0,0.0,30,True
+Estonia,Social Democratic Party | Moderates,Social Democracy,2013.0,0.0,0.030303030303030304,0.0,33,True
+Estonia,Social Democratic Party | Moderates,Social Democracy,2014.0,0.05555555555555555,0.07407407407407407,0.0,54,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2015.0,0.045454545454545456,0.09090909090909091,0.0,22,True
+Estonia,Social Democratic Party | Moderates,Social Democracy,2016.0,0.015873015873015872,0.031746031746031744,0.0,63,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2017.0,0.023255813953488372,0.07441860465116279,0.0,215,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2018.0,0.023148148148148147,0.07407407407407407,0.0,216,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2019.0,0.03184713375796178,0.044585987261146494,0.0,157,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2020.0,0.03861003861003861,0.0888030888030888,0.0,259,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2021.0,0.04048582995951417,0.13360323886639677,0.004048582995951417,247,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2022.0,0.04149377593360996,0.008298755186721992,0.0,241,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2023.0,0.0967741935483871,0.021505376344086023,0.0,186,False
+Estonia,Social Democratic Party | Moderates,Social Democracy,2024.0,0.03291139240506329,0.020253164556962026,0.0,395,False
+Finland,Centre Party,Agrarian,2014.0,0.0,0.0,0.0,2,True
+Finland,Centre Party,Agrarian,2015.0,0.009174311926605505,0.06422018348623854,0.0,109,False
+Finland,Centre Party,Agrarian,2016.0,0.025806451612903226,0.06451612903225806,0.0,155,False
+Finland,Centre Party,Agrarian,2017.0,0.02962962962962963,0.05185185185185185,0.0,135,False
+Finland,Centre Party,Agrarian,2018.0,0.03550295857988166,0.047337278106508875,0.0,169,False
+Finland,Centre Party,Agrarian,2019.0,0.15254237288135594,0.0847457627118644,0.0,59,False
+Finland,Centre Party,Agrarian,2020.0,0.06201550387596899,0.08527131782945736,0.0,129,False
+Finland,Centre Party,Agrarian,2021.0,0.10434782608695652,0.16521739130434782,0.0,115,False
+Finland,Centre Party,Agrarian,2022.0,0.08602150537634409,0.053763440860215055,0.0,93,False
+Finland,Centre Party,Agrarian,2023.0,0.06349206349206349,0.12698412698412698,0.0,63,False
+Finland,Centre Party,Agrarian,2024.0,0.013245033112582781,0.10596026490066225,0.0,151,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2018.0,0.12987012987012986,0.06493506493506493,0.0,77,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2019.0,0.17197452229299362,0.07643312101910828,0.0,157,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2020.0,0.08095238095238096,0.06190476190476191,0.004761904761904762,210,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2021.0,0.16143497757847533,0.09417040358744394,0.0,223,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2022.0,0.07582938388625593,0.08056872037914692,0.0,211,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2023.0,0.07179487179487179,0.05641025641025641,0.0,195,False
+Finland,Democratic Union | Left Alliance,Communist/Socialist,2024.0,0.09396914446002805,0.07012622720897616,0.0,713,False
+Finland,Finnish Party | True Finns,Agrarian,2013.0,0.0,0.3333333333333333,0.0,3,True
+Finland,Finnish Party | True Finns,Agrarian,2014.0,0.03508771929824561,0.03508771929824561,0.0,114,False
+Finland,Finnish Party | True Finns,Agrarian,2015.0,0.061224489795918366,0.08163265306122448,0.0,49,False
+Finland,Finnish Party | True Finns,Agrarian,2016.0,0.0,0.047619047619047616,0.0,21,True
+Finland,Finnish Party | True Finns,Agrarian,2017.0,0.15384615384615385,0.07692307692307693,0.0,13,True
+Finland,Finnish Party | True Finns,Agrarian,2018.0,0.0547945205479452,0.0547945205479452,0.0,73,False
+Finland,Finnish Party | True Finns,Agrarian,2019.0,0.061855670103092786,0.10309278350515463,0.0,97,False
+Finland,Finnish Party | True Finns,Agrarian,2020.0,0.1,0.06666666666666667,0.0,30,True
+Finland,Finnish Party | True Finns,Agrarian,2021.0,0.058823529411764705,0.058823529411764705,0.0,17,True
+Finland,Finnish Party | True Finns,Agrarian,2022.0,0.0,0.0,0.0,7,True
+Finland,Finnish Party | True Finns,Agrarian,2023.0,0.0,0.06451612903225806,0.0,31,True
+Finland,Finnish Party | True Finns,Agrarian,2024.0,0.0,0.06153846153846154,0.0,65,False
+Finland,Social Democratic Party of Finland,Social Democracy,2018.0,0.06606606606606606,0.0990990990990991,0.0,333,False
+Finland,Social Democratic Party of Finland,Social Democracy,2019.0,0.052980132450331126,0.152317880794702,0.0,453,False
+Finland,Social Democratic Party of Finland,Social Democracy,2020.0,0.04664179104477612,0.16977611940298507,0.0,536,False
+Finland,Social Democratic Party of Finland,Social Democracy,2021.0,0.053604436229205174,0.15526802218114602,0.0,541,False
+Finland,Social Democratic Party of Finland,Social Democracy,2022.0,0.026578073089700997,0.08305647840531562,0.0,602,False
+Finland,Social Democratic Party of Finland,Social Democracy,2023.0,0.038461538461538464,0.06570512820512821,0.0,624,False
+Finland,Social Democratic Party of Finland,Social Democracy,2024.0,0.03861219921656407,0.1152770005595971,0.0,1787,False
+France,National Rally,Radical Right-Wing,2011.0,0.0,0.0125,0.0,80,False
+France,National Rally,Radical Right-Wing,2012.0,0.001976284584980237,0.009881422924901186,0.0,506,False
+France,National Rally,Radical Right-Wing,2013.0,0.00946969696969697,0.015151515151515152,0.0,528,False
+France,National Rally,Radical Right-Wing,2014.0,0.013953488372093023,0.013953488372093023,0.0,430,False
+France,National Rally,Radical Right-Wing,2015.0,0.026530612244897958,0.026530612244897958,0.0,490,False
+France,National Rally,Radical Right-Wing,2016.0,0.025089605734767026,0.03942652329749104,0.0,558,False
+France,National Rally,Radical Right-Wing,2017.0,0.0075,0.02,0.0,400,False
+France,National Rally,Radical Right-Wing,2018.0,0.017374517374517374,0.04054054054054054,0.0,518,False
+France,National Rally,Radical Right-Wing,2019.0,0.029649595687331536,0.03234501347708895,0.0,371,False
+France,National Rally,Radical Right-Wing,2020.0,0.03482587064676617,0.10696517412935323,0.0,402,False
+France,National Rally,Radical Right-Wing,2021.0,0.05389221556886228,0.0688622754491018,0.0,334,False
+France,National Rally,Radical Right-Wing,2022.0,0.07894736842105263,0.02631578947368421,0.0,228,False
+France,National Rally,Radical Right-Wing,2023.0,0.04230769230769231,0.03461538461538462,0.0,260,False
+France,National Rally,Radical Right-Wing,2024.0,0.03875968992248062,0.023255813953488372,0.0,129,False
+France,Union for a Popular Movement | The Republicans,Conservative,2024.0,0.01932367149758454,0.004830917874396135,0.0,207,False
+Germany,Alliance 90 / Greens,Green,2010.0,0.06896551724137931,0.04689655172413793,0.0,1450,False
+Germany,Alliance 90 / Greens,Green,2011.0,0.04702750665483585,0.048802129547471165,0.0,1127,False
+Germany,Alliance 90 / Greens,Green,2012.0,0.04363636363636364,0.04727272727272727,0.0,1100,False
+Germany,Alliance 90 / Greens,Green,2013.0,0.04808877928483354,0.04932182490752158,0.0012330456226880395,811,False
+Germany,Alliance 90 / Greens,Green,2014.0,0.0563230605738576,0.053134962805526036,0.0,941,False
+Germany,Alliance 90 / Greens,Green,2015.0,0.07251908396946564,0.04580152671755725,0.0,786,False
+Germany,Alliance 90 / Greens,Green,2016.0,0.06758448060075094,0.04881101376720901,0.0,799,False
+Germany,Alliance 90 / Greens,Green,2017.0,0.07481296758104738,0.034912718204488775,0.0,401,False
+Germany,Alliance 90 / Greens,Green,2018.0,0.09777015437392796,0.03430531732418525,0.0,583,False
+Germany,Alliance 90 / Greens,Green,2019.0,0.13681592039800994,0.03233830845771144,0.0,402,False
+Germany,Alliance 90 / Greens,Green,2020.0,0.10828025477707007,0.07006369426751592,0.0,314,False
+Germany,Alliance 90 / Greens,Green,2021.0,0.12028301886792453,0.08490566037735849,0.0,424,False
+Germany,Alliance 90 / Greens,Green,2022.0,0.09936575052854123,0.046511627906976744,0.0,473,False
+Germany,Alliance 90 / Greens,Green,2023.0,0.10106382978723404,0.0425531914893617,0.0,188,False
+Germany,Alliance 90 / Greens,Green,2024.0,0.056074766355140186,0.03426791277258567,0.0,321,False
+Germany,Alternative for Germany,Radical Right-Wing,2013.0,0.0,0.0,0.0,110,False
+Germany,Alternative for Germany,Radical Right-Wing,2014.0,0.0,0.01056338028169014,0.0,284,False
+Germany,Alternative for Germany,Radical Right-Wing,2015.0,0.006172839506172839,0.0,0.0,162,False
+Germany,Alternative for Germany,Radical Right-Wing,2016.0,0.00267379679144385,0.00267379679144385,0.0,374,False
+Germany,Alternative for Germany,Radical Right-Wing,2017.0,0.02527075812274368,0.0018050541516245488,0.0,554,False
+Germany,Alternative for Germany,Radical Right-Wing,2018.0,0.07349081364829396,0.010498687664041995,0.0,1524,False
+Germany,Alternative for Germany,Radical Right-Wing,2019.0,0.06836827711941659,0.023701002734731084,0.0,1097,False
+Germany,Alternative for Germany,Radical Right-Wing,2020.0,0.03260869565217391,0.03260869565217391,0.0,460,False
+Germany,Alternative for Germany,Radical Right-Wing,2021.0,0.055,0.135,0.0,400,False
+Germany,Alternative for Germany,Radical Right-Wing,2022.0,0.04076086956521739,0.051630434782608696,0.0,368,False
+Germany,Alternative for Germany,Radical Right-Wing,2023.0,0.046632124352331605,0.07772020725388601,0.0,193,False
+Germany,Alternative for Germany,Radical Right-Wing,2024.0,0.03380281690140845,0.061971830985915494,0.0,355,False
+Germany,CDU/CSU,Christian Democracy,2010.0,0.038135593220338986,0.019067796610169493,0.0,944,False
+Germany,CDU/CSU,Christian Democracy,2011.0,0.03529411764705882,0.016042780748663103,0.0,935,False
+Germany,CDU/CSU,Christian Democracy,2012.0,0.026460859977949284,0.019845644983461964,0.0,907,False
+Germany,CDU/CSU,Christian Democracy,2013.0,0.029197080291970802,0.0170316301703163,0.0,822,False
+Germany,CDU/CSU,Christian Democracy,2014.0,0.021352313167259787,0.013048635824436536,0.0,843,False
+Germany,CDU/CSU,Christian Democracy,2015.0,0.0290519877675841,0.019877675840978593,0.0,654,False
+Germany,CDU/CSU,Christian Democracy,2016.0,0.0272,0.0208,0.0,625,False
+Germany,CDU/CSU,Christian Democracy,2017.0,0.043478260869565216,0.032036613272311214,0.0,437,False
+Germany,CDU/CSU,Christian Democracy,2018.0,0.04835164835164835,0.024175824175824177,0.0,455,False
+Germany,CDU/CSU,Christian Democracy,2019.0,0.07228915662650602,0.0321285140562249,0.0,249,False
+Germany,Christian Democratic Union,Christian Democracy,2017.0,0.06382978723404255,0.02127659574468085,0.0,47,False
+Germany,Christian Democratic Union,Christian Democracy,2018.0,0.04357298474945534,0.023965141612200435,0.0,459,False
+Germany,Christian Democratic Union,Christian Democracy,2019.0,0.07392996108949416,0.0311284046692607,0.0,514,False
+Germany,Christian Democratic Union,Christian Democracy,2020.0,0.037921348314606744,0.05337078651685393,0.0,712,False
+Germany,Christian Democratic Union,Christian Democracy,2021.0,0.0774487471526196,0.08086560364464693,0.0,878,False
+Germany,Christian Democratic Union,Christian Democracy,2022.0,0.0641399416909621,0.052478134110787174,0.0,1029,False
+Germany,Christian Democratic Union,Christian Democracy,2023.0,0.08579881656804733,0.047337278106508875,0.0014792899408284023,676,False
+Germany,Christian Democratic Union,Christian Democracy,2024.0,0.06796116504854369,0.036061026352288486,0.0,721,False
+Germany,Free Democratic Party,Liberal,2010.0,0.02832244008714597,0.06100217864923747,0.0,918,False
+Germany,Free Democratic Party,Liberal,2011.0,0.04490177736202058,0.04396632366697849,0.0,1069,False
+Germany,Free Democratic Party,Liberal,2012.0,0.0375,0.05416666666666667,0.0,960,False
+Germany,Free Democratic Party,Liberal,2013.0,0.024096385542168676,0.022590361445783132,0.0,664,False
+Germany,Free Democratic Party,Liberal,2014.0,0.0034482758620689655,0.017241379310344827,0.0,580,False
+Germany,Free Democratic Party,Liberal,2015.0,0.004991680532445923,0.009983361064891847,0.0,601,False
+Germany,Free Democratic Party,Liberal,2016.0,0.008319467554076539,0.011647254575707155,0.0,601,False
+Germany,Free Democratic Party,Liberal,2017.0,0.017228464419475654,0.01198501872659176,0.0,1335,False
+Germany,Free Democratic Party,Liberal,2018.0,0.04973221117061974,0.023718439173680182,0.0,1307,False
+Germany,Free Democratic Party,Liberal,2019.0,0.10141509433962265,0.014150943396226415,0.0,848,False
+Germany,Free Democratic Party,Liberal,2020.0,0.02564102564102564,0.09200603318250378,0.0,663,False
+Germany,Free Democratic Party,Liberal,2021.0,0.04201680672268908,0.16526610644257703,0.0,357,False
+Germany,Free Democratic Party,Liberal,2022.0,0.010940919037199124,0.015317286652078774,0.0,457,False
+Germany,Free Democratic Party,Liberal,2023.0,0.05555555555555555,0.0,0.0,108,False
+Germany,Free Democratic Party,Liberal,2024.0,0.029069767441860465,0.0,0.0,344,False
+Germany,Left,Communist/Socialist,2010.0,0.017094017094017096,0.07264957264957266,0.0,1404,False
+Germany,Left,Communist/Socialist,2011.0,0.017227877838684416,0.05168363351605325,0.0,1277,False
+Germany,Left,Communist/Socialist,2012.0,0.016574585635359115,0.06314127861089187,0.0,1267,False
+Germany,Left,Communist/Socialist,2013.0,0.01618705035971223,0.048561151079136694,0.0,1112,False
+Germany,Left,Communist/Socialist,2014.0,0.02060931899641577,0.05017921146953405,0.0,1116,False
+Germany,Left,Communist/Socialist,2015.0,0.02042711234911792,0.03806870937790158,0.0,1077,False
+Germany,Left,Communist/Socialist,2016.0,0.022702702702702703,0.03783783783783784,0.0,925,False
+Germany,Left,Communist/Socialist,2017.0,0.03766233766233766,0.03506493506493506,0.0,770,False
+Germany,Left,Communist/Socialist,2018.0,0.034688995215311005,0.07655502392344497,0.0,836,False
+Germany,Left,Communist/Socialist,2019.0,0.05591397849462366,0.07096774193548387,0.0,465,False
+Germany,Left,Communist/Socialist,2020.0,0.05572755417956656,0.11764705882352941,0.0030959752321981426,323,False
+Germany,Left,Communist/Socialist,2021.0,0.05829596412556054,0.15695067264573992,0.0,223,False
+Germany,Left,Communist/Socialist,2022.0,0.09090909090909091,0.08522727272727272,0.0,176,False
+Germany,Social Democratic Party of Germany,Social Democracy,2010.0,0.0388631090487239,0.04060324825986079,0.0,1724,False
+Germany,Social Democratic Party of Germany,Social Democracy,2011.0,0.04172274562584118,0.0370121130551817,0.0,1486,False
+Germany,Social Democratic Party of Germany,Social Democracy,2012.0,0.03582089552238806,0.03582089552238806,0.0,1340,False
+Germany,Social Democratic Party of Germany,Social Democracy,2013.0,0.02976190476190476,0.03373015873015873,0.0,1008,False
+Germany,Social Democratic Party of Germany,Social Democracy,2014.0,0.04408060453400504,0.04659949622166247,0.0,794,False
+Germany,Social Democratic Party of Germany,Social Democracy,2015.0,0.026602176541717048,0.03990326481257558,0.0,827,False
+Germany,Social Democratic Party of Germany,Social Democracy,2016.0,0.03007518796992481,0.03007518796992481,0.0,931,False
+Germany,Social Democratic Party of Germany,Social Democracy,2017.0,0.03259259259259259,0.016296296296296295,0.0,675,False
+Germany,Social Democratic Party of Germany,Social Democracy,2018.0,0.0328719723183391,0.01903114186851211,0.0,578,False
+Germany,Social Democratic Party of Germany,Social Democracy,2019.0,0.026239067055393587,0.03206997084548105,0.0,343,False
+Germany,Social Democratic Party of Germany,Social Democracy,2020.0,0.006060606060606061,0.05454545454545454,0.0,165,False
+Germany,Social Democratic Party of Germany,Social Democracy,2021.0,0.024734982332155476,0.07420494699646643,0.0,283,False
+Germany,Social Democratic Party of Germany,Social Democracy,2022.0,0.020689655172413793,0.027586206896551724,0.0,145,False
+Germany,Social Democratic Party of Germany,Social Democracy,2023.0,0.013793103448275862,0.0,0.0,145,False
+Germany,Social Democratic Party of Germany,Social Democracy,2024.0,0.0070921985815602835,0.004728132387706856,0.0,423,False
+Greece,Coalition of the Radical Left,Communist/Socialist,2022.0,0.03171091445427729,0.06165191740412979,0.0,6780,False
+Greece,Coalition of the Radical Left,Communist/Socialist,2023.0,0.035955056179775284,0.051043338683788124,0.0,3115,False
+Greece,Coalition of the Radical Left,Communist/Socialist,2024.0,0.03028742144843927,0.05830843721026064,0.0,9707,False
+Greece,Communist Party of Greece,Communist/Socialist,2023.0,0.04055299539170507,0.10783410138248847,0.0,1085,False
+Greece,Communist Party of Greece,Communist/Socialist,2024.0,0.03215926493108729,0.10872894333843798,0.0,1959,False
+Greece,Elliniki Lisi - Greek Solution,Conservative,2021.0,0.0,0.125,0.0,104,False
+Greece,Elliniki Lisi - Greek Solution,Conservative,2022.0,0.009174311926605505,0.03669724770642202,0.0,109,False
+Greece,Elliniki Lisi - Greek Solution,Conservative,2023.0,0.010101010101010102,0.010101010101010102,0.0,99,False
+Greece,Elliniki Lisi - Greek Solution,Conservative,2024.0,0.001962708537782139,0.0068694798822374874,0.0,1019,False
+Greece,New Democracy,Christian Democracy,2019.0,0.01867816091954023,0.035919540229885055,0.0014367816091954023,696,False
+Greece,New Democracy,Christian Democracy,2020.0,0.03389830508474576,0.09322033898305085,0.0,118,False
+Greece,New Democracy,Christian Democracy,2021.0,0.018292682926829267,0.04878048780487805,0.0,164,False
+Greece,New Democracy,Christian Democracy,2022.0,0.0060790273556231,0.06382978723404255,0.00303951367781155,329,False
+Greece,New Democracy,Christian Democracy,2023.0,0.003194888178913738,0.012779552715654952,0.0,313,False
+Greece,New Democracy,Christian Democracy,2024.0,0.0,0.016216216216216217,0.0,185,False
+Greece,Panhellenic Socialist Movement,Social Democracy,2020.0,0.03067484662576687,0.13496932515337423,0.0,163,False
+Greece,Panhellenic Socialist Movement,Social Democracy,2021.0,0.06205673758865248,0.11879432624113476,0.0,564,False
+Greece,Panhellenic Socialist Movement,Social Democracy,2022.0,0.03341288782816229,0.04892601431980907,0.0,838,False
+Greece,Panhellenic Socialist Movement,Social Democracy,2023.0,0.04495747266099635,0.05224787363304982,0.0,823,False
+Greece,Panhellenic Socialist Movement,Social Democracy,2024.0,0.034668260609683206,0.04602510460251046,0.0,1673,False
+Hungary,Democratic Coalition,Social Democracy,2019.0,0.05084745762711865,0.0903954802259887,0.0,354,False
+Hungary,Democratic Coalition,Social Democracy,2020.0,0.02696871628910464,0.20496224379719524,0.0,927,False
+Hungary,Democratic Coalition,Social Democracy,2021.0,0.0260989010989011,0.25686813186813184,0.0,728,False
+Hungary,Democratic Coalition,Social Democracy,2022.0,0.024390243902439025,0.07723577235772358,0.0,738,False
+Hungary,Democratic Coalition,Social Democracy,2023.0,0.030012004801920768,0.07923169267707082,0.0,833,False
+Hungary,Democratic Coalition,Social Democracy,2024.0,0.023373983739837397,0.0508130081300813,0.0,984,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2015.0,0.014107214832728738,0.014107214832728738,0.0,2481,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2016.0,0.006377551020408163,0.022321428571428572,0.0,1568,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2017.0,0.0064464141821112,0.0257856567284448,0.0,1241,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2018.0,0.006622516556291391,0.029801324503311258,0.0,302,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2019.0,0.015463917525773196,0.041237113402061855,0.0,194,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2020.0,0.017777777777777778,0.31555555555555553,0.0014814814814814814,675,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2021.0,0.044642857142857144,0.0625,0.0,112,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2022.0,0.013888888888888888,0.0,0.0,72,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2023.0,0.0,0.0125,0.0,80,False
+Hungary,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,Conservative,2024.0,0.0,0.0,0.0,9,True
+Hungary,Momentum,Conservative,2017.0,0.0,0.06896551724137931,0.0,29,True
+Hungary,Momentum,Conservative,2018.0,0.0,0.1,0.0,20,True
+Hungary,Momentum,Conservative,2019.0,0.046511627906976744,0.023255813953488372,0.0,43,False
+Hungary,Momentum,Conservative,2020.0,0.03896103896103896,0.09090909090909091,0.0,77,False
+Hungary,Momentum,Conservative,2021.0,0.025974025974025976,0.03896103896103896,0.0,77,False
+Hungary,Momentum,Conservative,2022.0,0.0223463687150838,0.0446927374301676,0.00558659217877095,179,False
+Hungary,Momentum,Conservative,2023.0,0.04329004329004329,0.021645021645021644,0.0,231,False
+Hungary,Momentum,Conservative,2024.0,0.03908794788273615,0.003257328990228013,0.0,307,False
+Iceland,Independence Party,Conservative,2022.0,0.009708737864077669,0.038834951456310676,0.0,206,False
+Iceland,Independence Party,Conservative,2023.0,0.028409090909090908,0.05113636363636364,0.0,176,False
+Iceland,Independence Party,Conservative,2024.0,0.006342494714587738,0.0,0.0,473,False
+Iceland,Left-Green Movement,Green,2020.0,0.21739130434782608,0.42028985507246375,0.0,69,False
+Iceland,Left-Green Movement,Green,2021.0,0.24050632911392406,0.2088607594936709,0.0,316,False
+Iceland,Left-Green Movement,Green,2022.0,0.12867647058823528,0.029411764705882353,0.0,272,False
+Iceland,Left-Green Movement,Green,2023.0,0.07881773399014778,0.019704433497536946,0.0,203,False
+Iceland,Left-Green Movement,Green,2024.0,0.1391941391941392,0.029304029304029304,0.0,273,False
+Iceland,Progressive Party,Agrarian,2016.0,0.09375,0.025,0.0,160,False
+Iceland,Progressive Party,Agrarian,2017.0,0.02727272727272727,0.1,0.0,110,False
+Iceland,Progressive Party,Agrarian,2018.0,0.03910614525139665,0.0335195530726257,0.0,179,False
+Iceland,Progressive Party,Agrarian,2019.0,0.07560137457044673,0.05154639175257732,0.0,291,False
+Iceland,Progressive Party,Agrarian,2020.0,0.03741496598639456,0.05102040816326531,0.003401360544217687,294,False
+Iceland,Progressive Party,Agrarian,2021.0,0.07567567567567568,0.032432432432432434,0.0,185,False
+Iceland,Progressive Party,Agrarian,2022.0,0.03494623655913978,0.07258064516129033,0.0,372,False
+Iceland,Progressive Party,Agrarian,2023.0,0.028720626631853787,0.07571801566579635,0.0,383,False
+Iceland,Progressive Party,Agrarian,2024.0,0.0224159402241594,0.10709838107098381,0.0,803,False
+Iceland,Social Democratic Alliance,Social Democracy,2014.0,0.0,0.0,0.0,1,True
+Iceland,Social Democratic Alliance,Social Democracy,2016.0,0.0,0.021739130434782608,0.0,46,False
+Iceland,Social Democratic Alliance,Social Democracy,2017.0,0.01020408163265306,0.11224489795918367,0.0,98,False
+Iceland,Social Democratic Alliance,Social Democracy,2018.0,0.025,0.0125,0.0,80,False
+Iceland,Social Democratic Alliance,Social Democracy,2019.0,0.13636363636363635,0.030303030303030304,0.0,66,False
+Iceland,Social Democratic Alliance,Social Democracy,2020.0,0.10869565217391304,0.07246376811594203,0.0,138,False
+Iceland,Social Democratic Alliance,Social Democracy,2021.0,0.10927152317880795,0.11589403973509933,0.0033112582781456954,302,False
+Iceland,Social Democratic Alliance,Social Democracy,2022.0,0.023148148148148147,0.037037037037037035,0.0,216,False
+Iceland,Social Democratic Alliance,Social Democracy,2023.0,0.0546875,0.125,0.0,128,False
+Iceland,Social Democratic Alliance,Social Democracy,2024.0,0.01556420233463035,0.058365758754863814,0.0038910505836575876,257,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2017.0,0.047058823529411764,0.023529411764705882,0.0,85,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2018.0,0.11176470588235295,0.08235294117647059,0.0,170,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2019.0,0.21818181818181817,0.16363636363636364,0.0,165,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2020.0,0.03111111111111111,0.24666666666666667,0.0,450,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2021.0,0.10610932475884244,0.21221864951768488,0.0,311,False
+Ireland,Dlúthphartíocht – Pobal Roimh Bhrabús,Communist/Socialist,2022.0,0.05737704918032787,0.13114754098360656,0.0,122,False
+Ireland,Fianna Fail,Conservative,2015.0,0.007772020725388601,0.13212435233160622,0.0,772,False
+Ireland,Fianna Fail,Conservative,2016.0,0.005833333333333334,0.13333333333333333,0.0,1200,False
+Ireland,Fianna Fail,Conservative,2017.0,0.01723037651563497,0.1525207402680281,0.0,1567,False
+Ireland,Fianna Fail,Conservative,2018.0,0.019801980198019802,0.15384615384615385,0.0,1313,False
+Ireland,Fianna Fail,Conservative,2019.0,0.04,0.1690909090909091,0.0,550,False
+Ireland,Fianna Fail,Conservative,2020.0,0.025303643724696356,0.19129554655870445,0.0,988,False
+Ireland,Fianna Fail,Conservative,2021.0,0.02654867256637168,0.17699115044247787,0.0,226,False
+Ireland,Fianna Fail,Conservative,2022.0,0.042986425339366516,0.11312217194570136,0.0,442,False
+Ireland,Fianna Fail,Conservative,2024.0,0.012658227848101266,0.11392405063291139,0.0,158,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2013.0,0.011560693641618497,0.09826589595375723,0.0,173,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2014.0,0.010922330097087379,0.11893203883495146,0.0,824,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2015.0,0.008976660682226212,0.09515260323159784,0.0,557,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2016.0,0.01935483870967742,0.09032258064516129,0.0,155,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2017.0,0.01020408163265306,0.08843537414965986,0.0,294,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2018.0,0.04950495049504951,0.0594059405940594,0.0033003300330033004,303,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2019.0,0.07657657657657657,0.06756756756756757,0.0,666,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2020.0,0.031207598371777476,0.09226594301221167,0.0,737,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2021.0,0.05322128851540616,0.13025210084033614,0.0,714,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2022.0,0.024943310657596373,0.10204081632653061,0.0,441,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2023.0,0.039711191335740074,0.09747292418772563,0.0,277,False
+Ireland,Fine Gael (Family of the Irish),Christian Democracy,2024.0,0.018105849582172703,0.06545961002785515,0.001392757660167131,718,False
+Ireland,Green Party,Green,2011.0,0.16666666666666666,0.0,0.0,12,True
+Ireland,Green Party,Green,2012.0,0.12781954887218044,0.03759398496240601,0.0,133,False
+Ireland,Green Party,Green,2013.0,0.2248062015503876,0.007751937984496124,0.0,129,False
+Ireland,Green Party,Green,2014.0,0.17355371900826447,0.004132231404958678,0.0,242,False
+Ireland,Green Party,Green,2015.0,0.15428571428571428,0.017142857142857144,0.0,175,False
+Ireland,Green Party,Green,2016.0,0.2107843137254902,0.05392156862745098,0.0,204,False
+Ireland,Green Party,Green,2017.0,0.20982142857142858,0.044642857142857144,0.0,224,False
+Ireland,Green Party,Green,2018.0,0.27697841726618705,0.017985611510791366,0.0,278,False
+Ireland,Green Party,Green,2019.0,0.3705179282868526,0.06772908366533864,0.00398406374501992,251,False
+Ireland,Green Party,Green,2020.0,0.21397379912663755,0.034934497816593885,0.004366812227074236,229,False
+Ireland,Green Party,Green,2021.0,0.41025641025641024,0.05128205128205128,0.0,39,True
+Ireland,Green Party,Green,2022.0,0.28378378378378377,0.02702702702702703,0.0,296,False
+Ireland,Green Party,Green,2023.0,0.4375,0.020833333333333332,0.0,96,False
+Ireland,Green Party,Green,2024.0,0.28512396694214875,0.02066115702479339,0.0,242,False
+Ireland,Labour,Social Democracy,2010.0,0.03954802259887006,0.10734463276836158,0.0,1593,False
+Ireland,Labour,Social Democracy,2011.0,0.016381236038719285,0.07446016381236038,0.0,1343,False
+Ireland,Labour,Social Democracy,2012.0,0.01560693641618497,0.06589595375722543,0.0,1730,False
+Ireland,Labour,Social Democracy,2013.0,0.021739130434782608,0.05946291560102302,0.0006393861892583121,1564,False
+Ireland,Labour,Social Democracy,2014.0,0.02207001522070015,0.0517503805175038,0.0,1314,False
+Ireland,Labour,Social Democracy,2015.0,0.01940755873340143,0.054136874361593465,0.0,979,False
+Ireland,Labour,Social Democracy,2016.0,0.015904572564612324,0.07157057654075547,0.0,503,False
+Ireland,Labour,Social Democracy,2017.0,0.03299856527977044,0.11908177905308465,0.0,697,False
+Ireland,Labour,Social Democracy,2018.0,0.02130681818181818,0.12642045454545456,0.0,704,False
+Ireland,Labour,Social Democracy,2019.0,0.05697151424287856,0.1889055472263868,0.0,667,False
+Ireland,Labour,Social Democracy,2020.0,0.009082652134423252,0.12170753860127158,0.0,1101,False
+Ireland,Labour,Social Democracy,2021.0,0.03867403314917127,0.15331491712707182,0.0,724,False
+Ireland,Labour,Social Democracy,2022.0,0.03935185185185185,0.08796296296296297,0.0,432,False
+Ireland,SD,Social Democracy,2015.0,0.05555555555555555,0.05555555555555555,0.0,18,True
+Ireland,SD,Social Democracy,2016.0,0.0,0.12244897959183673,0.0,49,False
+Ireland,SD,Social Democracy,2017.0,0.022222222222222223,0.09444444444444444,0.0,180,False
+Ireland,SD,Social Democracy,2018.0,0.03461538461538462,0.1423076923076923,0.0,260,False
+Ireland,SD,Social Democracy,2019.0,0.08527131782945736,0.13178294573643412,0.0,129,False
+Ireland,SD,Social Democracy,2020.0,0.05707762557077625,0.1735159817351598,0.0,438,False
+Ireland,SD,Social Democracy,2021.0,0.09657320872274143,0.17445482866043613,0.006230529595015576,321,False
+Ireland,SD,Social Democracy,2022.0,0.0730593607305936,0.1278538812785388,0.0,219,False
+Ireland,Sinn Fein,Communist/Socialist,2010.0,0.013207547169811321,0.07861635220125786,0.0006289308176100629,1590,False
+Ireland,Sinn Fein,Communist/Socialist,2011.0,0.014220416455053326,0.10411376333164042,0.0005078720162519045,1969,False
+Ireland,Sinn Fein,Communist/Socialist,2012.0,0.019827586206896553,0.08879310344827586,0.0,2320,False
+Ireland,Sinn Fein,Communist/Socialist,2013.0,0.01734570391286809,0.0899556272690601,0.0004033884630899556,2479,False
+Ireland,Sinn Fein,Communist/Socialist,2014.0,0.014705882352941176,0.07970588235294118,0.0002941176470588235,3400,False
+Ireland,Sinn Fein,Communist/Socialist,2015.0,0.013973577235772357,0.0782520325203252,0.00025406504065040653,3936,False
+Ireland,Sinn Fein,Communist/Socialist,2016.0,0.018309859154929577,0.09295774647887324,0.00046948356807511736,4260,False
+Ireland,Sinn Fein,Communist/Socialist,2017.0,0.017033356990773598,0.11450201088242253,0.0002365744026496333,4227,False
+Ireland,Sinn Fein,Communist/Socialist,2018.0,0.020534458509142053,0.12545710267229254,0.0,3555,False
+Ireland,Sinn Fein,Communist/Socialist,2019.0,0.03726516784724361,0.1425931629196181,0.0,3247,False
+Ireland,Sinn Fein,Communist/Socialist,2020.0,0.023682855671872317,0.18088210056632917,0.0,5827,False
+Ireland,Sinn Fein,Communist/Socialist,2021.0,0.02532863097146521,0.17152933632574544,0.0003206155819172812,3119,False
+Ireland,Sinn Fein,Communist/Socialist,2022.0,0.015670103092783504,0.1645360824742268,0.0,2425,False
+Ireland,Sinn Fein,Communist/Socialist,2023.0,0.03591160220994475,0.15676795580110497,0.0,1448,False
+Ireland,Sinn Fein,Communist/Socialist,2024.0,0.03078501795792714,0.11826577732170344,0.0,3898,False
+Ireland,Socialist Party,Communist/Socialist,2010.0,0.0,0.04081632653061224,0.0,98,False
+Ireland,Socialist Party,Communist/Socialist,2011.0,0.0,0.013888888888888888,0.0,72,False
+Ireland,Socialist Party,Communist/Socialist,2012.0,0.0,0.0,0.0,45,False
+Ireland,Socialist Party,Communist/Socialist,2013.0,0.0,0.015384615384615385,0.0,65,False
+Ireland,Socialist Party,Communist/Socialist,2014.0,0.023809523809523808,0.0,0.0,84,False
+Ireland,Socialist Party,Communist/Socialist,2015.0,0.018691588785046728,0.009345794392523364,0.0,107,False
+Ireland,Socialist Party,Communist/Socialist,2016.0,0.0,0.014705882352941176,0.0,68,False
+Ireland,Socialist Party,Communist/Socialist,2017.0,0.0,0.07246376811594203,0.0,69,False
+Ireland,Socialist Party,Communist/Socialist,2018.0,0.05172413793103448,0.017241379310344827,0.0,58,False
+Ireland,Socialist Party,Communist/Socialist,2019.0,0.07575757575757576,0.09848484848484848,0.0,132,False
+Ireland,Socialist Party,Communist/Socialist,2020.0,0.03167420814479638,0.14479638009049775,0.004524886877828055,221,False
+Ireland,Socialist Party,Communist/Socialist,2021.0,0.08426966292134831,0.11797752808988764,0.0,178,False
+Ireland,Socialist Party,Communist/Socialist,2022.0,0.047337278106508875,0.07100591715976332,0.0,169,False
+Italy,Brothers of Italy,Radical Right-Wing,2012.0,0.0,0.0,0.0,1,True
+Italy,Brothers of Italy,Radical Right-Wing,2013.0,0.04970178926441352,0.02385685884691849,0.0,503,False
+Italy,Brothers of Italy,Radical Right-Wing,2014.0,0.019417475728155338,0.003236245954692557,0.0,309,False
+Italy,Brothers of Italy,Radical Right-Wing,2015.0,0.015422077922077922,0.00487012987012987,0.0,1232,False
+Italy,Brothers of Italy,Radical Right-Wing,2016.0,0.0183752417794971,0.005802707930367505,0.0,1034,False
+Italy,Brothers of Italy,Radical Right-Wing,2017.0,0.014900662251655629,0.008278145695364239,0.0,1208,False
+Italy,Brothers of Italy,Radical Right-Wing,2018.0,0.020250723240115717,0.017839922854387655,0.0,2074,False
+Italy,Brothers of Italy,Radical Right-Wing,2019.0,0.0160857908847185,0.002680965147453083,0.0,373,False
+Italy,Brothers of Italy,Radical Right-Wing,2020.0,0.014150943396226415,0.10377358490566038,0.0,212,False
+Italy,Brothers of Italy,Radical Right-Wing,2021.0,0.03269118505545826,0.06771745475773497,0.0005837711617046118,1713,False
+Italy,Brothers of Italy,Radical Right-Wing,2022.0,0.029743589743589743,0.03282051282051282,0.0,1950,False
+Italy,Brothers of Italy,Radical Right-Wing,2023.0,0.038314176245210725,0.009578544061302681,0.0,522,False
+Italy,Brothers of Italy,Radical Right-Wing,2024.0,0.020618556701030927,0.03994845360824742,0.0,1552,False
+Italy,Democratic Party,Social Democracy,2023.0,0.014035087719298246,0.0456140350877193,0.0,285,False
+Italy,Democratic Party,Social Democracy,2024.0,0.016638935108153077,0.059900166389351084,0.0,601,False
+Italy,Five Star Movement,No Family,2021.0,0.12578616352201258,0.06289308176100629,0.0,159,False
+Italy,Five Star Movement,No Family,2022.0,0.0763888888888889,0.027777777777777776,0.0,144,False
+Italy,Five Star Movement,No Family,2023.0,0.15555555555555556,0.0,0.0,90,False
+Italy,Five Star Movement,No Family,2024.0,0.09880239520958084,0.06287425149700598,0.0,334,False
+Lithuania,Freedom Party,Liberal,2022.0,0.021505376344086023,0.07526881720430108,0.0,93,False
+Lithuania,Freedom Party,Liberal,2023.0,0.2631578947368421,0.10526315789473684,0.0,19,True
+Lithuania,Freedom Party,Liberal,2024.0,0.023809523809523808,0.03968253968253968,0.0,126,False
+Lithuania,Homeland Union,Conservative,2020.0,0.057971014492753624,0.13043478260869565,0.0,207,False
+Lithuania,Homeland Union,Conservative,2021.0,0.09876543209876543,0.08641975308641975,0.0,81,False
+Lithuania,Homeland Union,Conservative,2022.0,0.0,0.0,0.0,26,True
+Lithuania,Homeland Union,Conservative,2023.0,0.0,0.0,0.0,22,True
+Lithuania,Homeland Union,Conservative,2024.0,0.015151515151515152,0.015151515151515152,0.0,66,False
+Lithuania,Labour Party,Liberal,2010.0,0.030303030303030304,0.06666666666666667,0.0,495,False
+Lithuania,Labour Party,Liberal,2011.0,0.05623471882640587,0.06601466992665037,0.0,409,False
+Lithuania,Labour Party,Liberal,2012.0,0.05656108597285068,0.038461538461538464,0.0,442,False
+Lithuania,Labour Party,Liberal,2013.0,0.043706293706293704,0.06643356643356643,0.0,572,False
+Lithuania,Labour Party,Liberal,2014.0,0.0166073546856465,0.02965599051008304,0.0,843,False
+Lithuania,Labour Party,Liberal,2015.0,0.014248704663212436,0.038860103626943004,0.0,772,False
+Lithuania,Labour Party,Liberal,2016.0,0.021912350597609563,0.06772908366533864,0.0,502,False
+Lithuania,Labour Party,Liberal,2017.0,0.06635071090047394,0.023696682464454975,0.0,211,False
+Lithuania,Labour Party,Liberal,2018.0,0.034482758620689655,0.0,0.0,174,False
+Lithuania,Labour Party,Liberal,2019.0,0.059322033898305086,0.0,0.0,118,False
+Lithuania,Labour Party,Liberal,2020.0,0.03076923076923077,0.16923076923076924,0.0,130,False
+Lithuania,Labour Party,Liberal,2021.0,0.030973451327433628,0.1504424778761062,0.0,226,False
+Lithuania,Labour Party,Liberal,2022.0,0.015873015873015872,0.042328042328042326,0.0,189,False
+Lithuania,Labour Party,Liberal,2023.0,0.012658227848101266,0.02531645569620253,0.0,79,False
+Lithuania,Labour Party,Liberal,2024.0,0.0,0.0,0.0,39,True
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2017.0,0.02,0.14,0.0,50,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2018.0,0.09852216748768473,0.059113300492610835,0.0,203,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2019.0,0.06115107913669065,0.0539568345323741,0.0,278,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2020.0,0.07307692307692308,0.16923076923076924,0.0,260,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2021.0,0.081145584725537,0.12171837708830549,0.0,419,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2022.0,0.06501547987616099,0.09907120743034056,0.0,323,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2023.0,0.03470031545741325,0.0946372239747634,0.0,317,False
+Lithuania,Lithuanian Social Democratic Party,Social Democracy,2024.0,0.03414634146341464,0.04878048780487805,0.0,205,False
+Netherlands,ChristenUnie,Christian Democracy,2016.0,0.028985507246376812,0.028985507246376812,0.0,69,False
+Netherlands,ChristenUnie,Christian Democracy,2017.0,0.04411764705882353,0.08823529411764706,0.0,136,False
+Netherlands,ChristenUnie,Christian Democracy,2018.0,0.057777777777777775,0.06222222222222222,0.0,225,False
+Netherlands,ChristenUnie,Christian Democracy,2019.0,0.13529411764705881,0.01764705882352941,0.0,170,False
+Netherlands,ChristenUnie,Christian Democracy,2020.0,0.06422018348623854,0.14220183486238533,0.0,218,False
+Netherlands,ChristenUnie,Christian Democracy,2021.0,0.034013605442176874,0.19047619047619047,0.0,147,False
+Netherlands,ChristenUnie,Christian Democracy,2022.0,0.09523809523809523,0.05952380952380952,0.0,84,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2010.0,0.022172949002217297,0.050997782705099776,0.0,451,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2011.0,0.045925925925925926,0.06814814814814815,0.0014814814814814814,675,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2012.0,0.051233396584440226,0.09297912713472485,0.0,527,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2013.0,0.023255813953488372,0.12209302325581395,0.0,344,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2014.0,0.01524390243902439,0.14634146341463414,0.0,328,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2015.0,0.02830188679245283,0.10377358490566038,0.0,318,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2016.0,0.016666666666666666,0.0625,0.0,240,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2017.0,0.022727272727272728,0.09090909090909091,0.0,176,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2018.0,0.0507399577167019,0.07399577167019028,0.0021141649048625794,473,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2019.0,0.05555555555555555,0.03535353535353535,0.0,198,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2020.0,0.05673758865248227,0.10638297872340426,0.0,141,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2021.0,0.061224489795918366,0.05442176870748299,0.0,147,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2022.0,0.07096774193548387,0.025806451612903226,0.0,155,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2023.0,0.0423728813559322,0.0423728813559322,0.0,118,False
+Netherlands,Christian Democratic Appeal,Christian Democracy,2024.0,0.036585365853658534,0.018292682926829267,0.0,164,False
+Netherlands,Democrats 66,Liberal,2012.0,0.045454545454545456,0.056818181818181816,0.0,88,False
+Netherlands,Democrats 66,Liberal,2013.0,0.033707865168539325,0.016853932584269662,0.0,178,False
+Netherlands,Democrats 66,Liberal,2014.0,0.06741573033707865,0.033707865168539325,0.0,178,False
+Netherlands,Democrats 66,Liberal,2015.0,0.06040268456375839,0.013422818791946308,0.0,149,False
+Netherlands,Democrats 66,Liberal,2016.0,0.07407407407407407,0.04938271604938271,0.0,162,False
+Netherlands,Democrats 66,Liberal,2017.0,0.0782608695652174,0.043478260869565216,0.008695652173913044,115,False
+Netherlands,Democrats 66,Liberal,2018.0,0.031496062992125984,0.07874015748031496,0.0,127,False
+Netherlands,Democrats 66,Liberal,2019.0,0.15730337078651685,0.0449438202247191,0.0,89,False
+Netherlands,Democrats 66,Liberal,2020.0,0.06640625,0.09765625,0.0,256,False
+Netherlands,Democrats 66,Liberal,2021.0,0.07643312101910828,0.09554140127388536,0.0,157,False
+Netherlands,Democrats 66,Liberal,2022.0,0.07926829268292683,0.042682926829268296,0.0,164,False
+Netherlands,Democrats 66,Liberal,2023.0,0.14130434782608695,0.03260869565217391,0.0,92,False
+Netherlands,Democrats 66,Liberal,2024.0,0.0,0.05813953488372093,0.0,86,False
+Netherlands,GL,Green,2010.0,0.08983050847457627,0.03220338983050847,0.0,590,False
+Netherlands,GL,Green,2011.0,0.08933002481389578,0.04838709677419355,0.0,806,False
+Netherlands,GL,Green,2012.0,0.12666666666666668,0.04,0.0,750,False
+Netherlands,GL,Green,2013.0,0.0694980694980695,0.0444015444015444,0.0019305019305019305,518,False
+Netherlands,GL,Green,2014.0,0.09192200557103064,0.09192200557103064,0.0,359,False
+Netherlands,GL,Green,2015.0,0.23872679045092837,0.03978779840848806,0.0,754,False
+Netherlands,GL,Green,2016.0,0.18636995827538247,0.037552155771905425,0.0,719,False
+Netherlands,GL,Green,2017.0,0.2081967213114754,0.05573770491803279,0.0,610,False
+Netherlands,GL,Green,2018.0,0.19750889679715303,0.06405693950177936,0.0,562,False
+Netherlands,GL,Green,2019.0,0.26294820717131473,0.0796812749003984,0.0,251,False
+Netherlands,GL,Green,2020.0,0.17363344051446947,0.10932475884244373,0.006430868167202572,311,False
+Netherlands,GL,Green,2021.0,0.2629757785467128,0.0726643598615917,0.0,289,False
+Netherlands,GL,Green,2022.0,0.1680327868852459,0.07377049180327869,0.0,244,False
+Netherlands,Party for Freedom,Radical Right-Wing,2010.0,0.024475524475524476,0.05244755244755245,0.0,286,False
+Netherlands,Party for Freedom,Radical Right-Wing,2011.0,0.0,0.04961832061068702,0.0,262,False
+Netherlands,Party for Freedom,Radical Right-Wing,2012.0,0.010830324909747292,0.05054151624548736,0.0,277,False
+Netherlands,Party for Freedom,Radical Right-Wing,2013.0,0.014760147601476014,0.07749077490774908,0.0,271,False
+Netherlands,Party for Freedom,Radical Right-Wing,2014.0,0.008438818565400843,0.029535864978902954,0.0,237,False
+Netherlands,Party for Freedom,Radical Right-Wing,2015.0,0.0,0.03365384615384615,0.0,208,False
+Netherlands,Party for Freedom,Radical Right-Wing,2016.0,0.009523809523809525,0.02857142857142857,0.0,105,False
+Netherlands,Party for Freedom,Radical Right-Wing,2017.0,0.0,0.013157894736842105,0.0,76,False
+Netherlands,Party for Freedom,Radical Right-Wing,2018.0,0.0,0.017241379310344827,0.0,58,False
+Netherlands,Party for Freedom,Radical Right-Wing,2019.0,0.14285714285714285,0.01098901098901099,0.0,91,False
+Netherlands,Party for Freedom,Radical Right-Wing,2020.0,0.025157232704402517,0.14465408805031446,0.0,159,False
+Netherlands,Party for Freedom,Radical Right-Wing,2021.0,0.023809523809523808,0.06547619047619048,0.0,168,False
+Netherlands,Party for Freedom,Radical Right-Wing,2022.0,0.08108108108108109,0.010810810810810811,0.0,185,False
+Netherlands,Party for Freedom,Radical Right-Wing,2023.0,0.02586206896551724,0.004310344827586207,0.0,232,False
+Netherlands,Party for Freedom,Radical Right-Wing,2024.0,0.01415929203539823,0.01415929203539823,0.0,565,False
+Netherlands,People's Party for Freedom and Democracy,Liberal,2011.0,0.0,0.0,0.0,1,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2012.0,0.0,0.0,0.0,3,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2013.0,0.0,0.0,0.0,10,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2014.0,0.0,0.0,0.0,18,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2015.0,0.0,0.0,0.0,11,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2016.0,0.0,0.0,0.0,16,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2017.0,0.0,0.0,0.0,6,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2018.0,0.0,0.0,0.0,6,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2019.0,0.0,0.0,0.0,3,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2020.0,0.0,0.16666666666666666,0.0,6,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2021.0,0.0,0.0,0.0,5,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2022.0,0.11428571428571428,0.02857142857142857,0.0,35,True
+Netherlands,People's Party for Freedom and Democracy,Liberal,2023.0,0.043478260869565216,0.010869565217391304,0.0,92,False
+Netherlands,People's Party for Freedom and Democracy,Liberal,2024.0,0.015444015444015444,0.015444015444015444,0.0,259,False
+Netherlands,PvdA,Social Democracy,2010.0,0.026755852842809364,0.06856187290969899,0.0,598,False
+Netherlands,PvdA,Social Democracy,2011.0,0.015985790408525755,0.06927175843694494,0.0,563,False
+Netherlands,PvdA,Social Democracy,2012.0,0.034818941504178275,0.07381615598885793,0.0,718,False
+Netherlands,PvdA,Social Democracy,2013.0,0.03585147247119078,0.10755441741357234,0.0012804097311139564,781,False
+Netherlands,PvdA,Social Democracy,2014.0,0.030015797788309637,0.06635071090047394,0.001579778830963665,633,False
+Netherlands,PvdA,Social Democracy,2015.0,0.03131991051454139,0.06711409395973154,0.0,447,False
+Netherlands,PvdA,Social Democracy,2016.0,0.022222222222222223,0.05555555555555555,0.0,360,False
+Netherlands,PvdA,Social Democracy,2017.0,0.029411764705882353,0.09803921568627451,0.0,306,False
+Netherlands,PvdA,Social Democracy,2018.0,0.03594771241830065,0.026143790849673203,0.0,306,False
+Netherlands,PvdA,Social Democracy,2019.0,0.04477611940298507,0.1044776119402985,0.0,134,False
+Netherlands,PvdA,Social Democracy,2020.0,0.0,0.2620689655172414,0.0,145,False
+Netherlands,PvdA,Social Democracy,2021.0,0.05555555555555555,0.1111111111111111,0.0,54,False
+Netherlands,PvdA,Social Democracy,2022.0,0.12,0.08,0.0,25,True
+Netherlands,PvdD,Special Issue,2010.0,0.3987341772151899,0.006329113924050633,0.0,158,False
+Netherlands,PvdD,Special Issue,2011.0,0.2833333333333333,0.005555555555555556,0.0,180,False
+Netherlands,PvdD,Special Issue,2012.0,0.38333333333333336,0.0,0.0,180,False
+Netherlands,PvdD,Special Issue,2013.0,0.3202247191011236,0.0,0.0056179775280898875,178,False
+Netherlands,PvdD,Special Issue,2014.0,0.2833333333333333,0.005555555555555556,0.0,180,False
+Netherlands,PvdD,Special Issue,2015.0,0.40458015267175573,0.015267175572519083,0.0,131,False
+Netherlands,PvdD,Special Issue,2016.0,0.3448275862068966,0.0,0.0,87,False
+Netherlands,PvdD,Special Issue,2017.0,0.2765957446808511,0.02127659574468085,0.0,94,False
+Netherlands,PvdD,Special Issue,2018.0,0.4074074074074074,0.012345679012345678,0.0,81,False
+Netherlands,PvdD,Special Issue,2021.0,0.0,0.0,0.0,1,True
+Netherlands,SGP,Conservative,2012.0,0.03278688524590164,0.04918032786885246,0.0,122,False
+Netherlands,SGP,Conservative,2013.0,0.046511627906976744,0.06201550387596899,0.0,129,False
+Netherlands,SGP,Conservative,2014.0,0.03529411764705882,0.10588235294117647,0.0,85,False
+Netherlands,SGP,Conservative,2015.0,0.05426356589147287,0.07751937984496124,0.0,129,False
+Netherlands,SGP,Conservative,2016.0,0.025974025974025976,0.025974025974025976,0.0,154,False
+Netherlands,SGP,Conservative,2017.0,0.05063291139240506,0.06962025316455696,0.0,158,False
+Netherlands,SGP,Conservative,2018.0,0.037037037037037035,0.037037037037037035,0.0,216,False
+Netherlands,SGP,Conservative,2019.0,0.047619047619047616,0.0,0.0,21,True
+Netherlands,Socialist Party,Communist/Socialist,2010.0,0.029873039581777446,0.09932785660941,0.0,1339,False
+Netherlands,Socialist Party,Communist/Socialist,2011.0,0.021121039805036556,0.09910641754670999,0.0,1231,False
+Netherlands,Socialist Party,Communist/Socialist,2012.0,0.024342745861733205,0.11295034079844206,0.0009737098344693282,1027,False
+Netherlands,Socialist Party,Communist/Socialist,2013.0,0.01937046004842615,0.11138014527845036,0.0,826,False
+Netherlands,Socialist Party,Communist/Socialist,2014.0,0.012589928057553957,0.1366906474820144,0.0,556,False
+Netherlands,Socialist Party,Communist/Socialist,2015.0,0.03861788617886179,0.07926829268292683,0.0,492,False
+Netherlands,Socialist Party,Communist/Socialist,2016.0,0.022058823529411766,0.11029411764705882,0.0,408,False
+Netherlands,Socialist Party,Communist/Socialist,2017.0,0.03991130820399113,0.06651884700665188,0.0,451,False
+Netherlands,Socialist Party,Communist/Socialist,2018.0,0.024498886414253896,0.07126948775055679,0.0,449,False
+Netherlands,Socialist Party,Communist/Socialist,2019.0,0.056847545219638244,0.08785529715762273,0.0,387,False
+Netherlands,Socialist Party,Communist/Socialist,2020.0,0.02771362586605081,0.14780600461893764,0.0,433,False
+Netherlands,Socialist Party,Communist/Socialist,2021.0,0.025735294117647058,0.10294117647058823,0.0,272,False
+Netherlands,Socialist Party,Communist/Socialist,2022.0,0.043478260869565216,0.05652173913043478,0.0,230,False
+Netherlands,Socialist Party,Communist/Socialist,2023.0,0.0593607305936073,0.1141552511415525,0.0,219,False
+Netherlands,Socialist Party,Communist/Socialist,2024.0,0.0051813471502590676,0.11398963730569948,0.0,193,False
+Norway,Centre Party,Agrarian,2021.0,0.0,0.1,0.0,30,True
+Norway,Centre Party,Agrarian,2022.0,0.011904761904761904,0.011904761904761904,0.0,84,False
+Norway,Centre Party,Agrarian,2023.0,0.0375,0.025,0.0,80,False
+Norway,Centre Party,Agrarian,2024.0,0.04878048780487805,0.07804878048780488,0.0,205,False
+Norway,Conservative Party,Conservative,2024.0,0.007407407407407408,0.08518518518518518,0.0,270,False
+Norway,Progress Party,Radical Right-Wing,2020.0,0.022988505747126436,0.1111111111111111,0.0,261,False
+Norway,Progress Party,Radical Right-Wing,2021.0,0.07203389830508475,0.10805084745762712,0.0,472,False
+Norway,Progress Party,Radical Right-Wing,2022.0,0.03125,0.08173076923076923,0.0,416,False
+Norway,Progress Party,Radical Right-Wing,2023.0,0.015267175572519083,0.09541984732824428,0.0,262,False
+Norway,Progress Party,Radical Right-Wing,2024.0,0.04572564612326044,0.10536779324055666,0.0,503,False
+Poland,Civic Platform,Conservative,2011.0,0.0,0.0,0.0,14,True
+Poland,Civic Platform,Conservative,2012.0,0.012987012987012988,0.06493506493506493,0.0,154,False
+Poland,Civic Platform,Conservative,2013.0,0.03205128205128205,0.03205128205128205,0.0,156,False
+Poland,Civic Platform,Conservative,2014.0,0.027777777777777776,0.027777777777777776,0.0,180,False
+Poland,Civic Platform,Conservative,2015.0,0.018518518518518517,0.022222222222222223,0.0,270,False
+Poland,Civic Platform,Conservative,2016.0,0.011560693641618497,0.023121387283236993,0.0,519,False
+Poland,Civic Platform,Conservative,2017.0,0.06888888888888889,0.05333333333333334,0.0022222222222222222,450,False
+Poland,Civic Platform,Conservative,2018.0,0.01680672268907563,0.05042016806722689,0.0,119,False
+Poland,Civic Platform,Conservative,2019.0,0.0,0.0,0.0,120,False
+Poland,Civic Platform,Conservative,2020.0,0.0,0.17708333333333334,0.0,96,False
+Poland,Civic Platform,Conservative,2021.0,0.0,0.1896551724137931,0.0,58,False
+Poland,Civic Platform,Conservative,2022.0,0.01694915254237288,0.0,0.0,59,False
+Poland,Civic Platform,Conservative,2023.0,0.007142857142857143,0.0,0.0,140,False
+Poland,Civic Platform,Conservative,2024.0,0.00819672131147541,0.0,0.0,122,False
+Poland,Coalition for the Renewal of the Republic -- Liberty and Hope,Conservative,2015.0,0.003076923076923077,0.0,0.0,325,False
+Poland,Coalition for the Renewal of the Republic -- Liberty and Hope,Conservative,2016.0,0.0,0.01098901098901099,0.0,273,False
+Poland,Coalition for the Renewal of the Republic -- Liberty and Hope,Conservative,2017.0,0.014814814814814815,0.018518518518518517,0.0,270,False
+Poland,Coalition for the Renewal of the Republic -- Liberty and Hope,Conservative,2018.0,0.0,0.017543859649122806,0.0,57,False
+Poland,Coalition for the Renewal of the Republic -- Liberty and Hope,Conservative,2022.0,0.0,0.0,0.0,3,True
+Poland,Democratic Left Alliance,Social Democracy,2010.0,0.0,0.0,0.0,1,True
+Poland,Democratic Left Alliance,Social Democracy,2011.0,0.0,0.0,0.0,4,True
+Poland,Democratic Left Alliance,Social Democracy,2012.0,0.013856812933025405,0.023094688221709007,0.0,433,False
+Poland,Democratic Left Alliance,Social Democracy,2013.0,0.007032348804500703,0.02390998593530239,0.0,711,False
+Poland,Democratic Left Alliance,Social Democracy,2014.0,0.004210526315789474,0.03894736842105263,0.0,950,False
+Poland,Democratic Left Alliance,Social Democracy,2015.0,0.0022371364653243847,0.026845637583892617,0.0,447,False
+Poland,Democratic Left Alliance,Social Democracy,2016.0,0.0,0.020202020202020204,0.0,297,False
+Poland,Democratic Left Alliance,Social Democracy,2017.0,0.011013215859030838,0.01762114537444934,0.0,454,False
+Poland,Democratic Left Alliance,Social Democracy,2018.0,0.002680965147453083,0.00804289544235925,0.0,373,False
+Poland,Democratic Left Alliance,Social Democracy,2019.0,0.016042780748663103,0.008912655971479501,0.0,561,False
+Poland,Democratic Left Alliance,Social Democracy,2020.0,0.007259528130671506,0.07259528130671507,0.0,551,False
+Poland,Democratic Left Alliance,Social Democracy,2021.0,0.013793103448275862,0.13793103448275862,0.0,145,False
+Poland,Democratic Left Alliance,Social Democracy,2022.0,0.0,0.0,0.0,1,True
+Poland,Law and Justice,Conservative,2010.0,0.00933997509339975,0.017434620174346202,0.0,1606,False
+Poland,Law and Justice,Conservative,2011.0,0.01288855193328279,0.030326004548900682,0.0,1319,False
+Poland,Law and Justice,Conservative,2012.0,0.011163337250293772,0.04524089306698002,0.0,1702,False
+Poland,Law and Justice,Conservative,2013.0,0.028135048231511254,0.03536977491961415,0.0,1244,False
+Poland,Law and Justice,Conservative,2014.0,0.03494347379239465,0.0421377183967112,0.0,973,False
+Poland,Law and Justice,Conservative,2015.0,0.022684310018903593,0.02835538752362949,0.0,529,False
+Poland,Law and Justice,Conservative,2016.0,0.005805515239477504,0.01741654571843251,0.0,689,False
+Poland,Law and Justice,Conservative,2017.0,0.013477088948787063,0.02425876010781671,0.0,742,False
+Poland,Law and Justice,Conservative,2018.0,0.04573804573804574,0.004158004158004158,0.0,481,False
+Poland,Law and Justice,Conservative,2019.0,0.012790697674418604,0.004651162790697674,0.0,860,False
+Poland,Law and Justice,Conservative,2020.0,0.015748031496062992,0.20669291338582677,0.0,508,False
+Poland,Law and Justice,Conservative,2021.0,0.01805869074492099,0.26636568848758463,0.0,443,False
+Poland,Law and Justice,Conservative,2022.0,0.0,0.032846715328467155,0.0,274,False
+Poland,Law and Justice,Conservative,2023.0,0.006993006993006993,0.0034965034965034965,0.0,286,False
+Poland,Law and Justice,Conservative,2024.0,0.023809523809523808,0.009523809523809525,0.0,420,False
+Poland,Partia Razem,Social Democracy,2015.0,0.009174311926605505,0.03669724770642202,0.0,109,False
+Poland,Partia Razem,Social Democracy,2016.0,0.022727272727272728,0.030303030303030304,0.0,264,False
+Poland,Partia Razem,Social Democracy,2017.0,0.04721030042918455,0.03862660944206009,0.0,233,False
+Poland,Partia Razem,Social Democracy,2018.0,0.026737967914438502,0.03208556149732621,0.0,187,False
+Poland,Partia Razem,Social Democracy,2019.0,0.0670391061452514,0.05027932960893855,0.0,358,False
+Poland,Partia Razem,Social Democracy,2020.0,0.0473186119873817,0.10094637223974763,0.0,317,False
+Poland,Partia Razem,Social Democracy,2021.0,0.0425531914893617,0.1702127659574468,0.005319148936170213,188,False
+Poland,Partia Razem,Social Democracy,2022.0,0.031496062992125984,0.03937007874015748,0.0,127,False
+Poland,Polish People's Party,Agrarian,2013.0,0.0,0.0,0.0,23,True
+Poland,Polish People's Party,Agrarian,2014.0,0.0,0.0,0.0,3,True
+Poland,Polish People's Party,Agrarian,2015.0,0.0,0.0,0.0,2,True
+Poland,Polish People's Party,Agrarian,2016.0,0.0,0.021231422505307854,0.0,471,False
+Poland,Polish People's Party,Agrarian,2017.0,0.06051282051282051,0.03076923076923077,0.0,975,False
+Poland,Polish People's Party,Agrarian,2018.0,0.011029411764705883,0.014705882352941176,0.0,272,False
+Poland,Polish People's Party,Agrarian,2019.0,0.0,0.03333333333333333,0.0,120,False
+Poland,Polish People's Party,Agrarian,2020.0,0.0,0.16826923076923078,0.0,208,False
+Poland,Polish People's Party,Agrarian,2021.0,0.011811023622047244,0.1889763779527559,0.0,254,False
+Poland,Polish People's Party,Agrarian,2022.0,0.007936507936507936,0.07142857142857142,0.0,126,False
+Poland,Polish People's Party,Agrarian,2023.0,0.008620689655172414,0.008620689655172414,0.0,116,False
+Poland,Polish People's Party,Agrarian,2024.0,0.02727272727272727,0.014545454545454545,0.0,550,False
+Portugal,Socialist Party,Social Democracy,2019.0,0.052132701421800945,0.07109004739336493,0.0,422,False
+Portugal,Socialist Party,Social Democracy,2020.0,0.03799019607843137,0.12438725490196079,0.0006127450980392157,1632,False
+Portugal,Socialist Party,Social Democracy,2021.0,0.042826552462526764,0.15845824411134904,0.0007137758743754461,1401,False
+Portugal,Socialist Party,Social Democracy,2022.0,0.03374578177727784,0.06636670416197975,0.0,889,False
+Portugal,Socialist Party,Social Democracy,2023.0,0.029556650246305417,0.0603448275862069,0.0,812,False
+Portugal,Socialist Party,Social Democracy,2024.0,0.00743801652892562,0.07603305785123966,0.0,1210,False
+Romania,Alliance for the Unity of Romanians,Radical Right-Wing,2022.0,0.030303030303030304,0.03787878787878788,0.0,132,False
+Romania,Alliance for the Unity of Romanians,Radical Right-Wing,2023.0,0.03804347826086957,0.08695652173913043,0.0,184,False
+Romania,Alliance for the Unity of Romanians,Radical Right-Wing,2024.0,0.041474654377880185,0.0576036866359447,0.0,434,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2011.0,0.25806451612903225,0.03225806451612903,0.0,31,True
+Romania,Democratic Union of Hungarians in Romania,Conservative,2012.0,0.09202453987730061,0.006134969325153374,0.0,163,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2013.0,0.018050541516245487,0.05415162454873646,0.0,277,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2014.0,0.030054644808743168,0.01092896174863388,0.0,366,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2015.0,0.06204379562043796,0.0072992700729927005,0.0,274,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2016.0,0.0525,0.0175,0.0,400,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2017.0,0.04054054054054054,0.013513513513513514,0.0,370,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2018.0,0.014150943396226415,0.0330188679245283,0.0,212,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2019.0,0.0,0.007407407407407408,0.0,135,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2020.0,0.018018018018018018,0.13513513513513514,0.0,111,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2021.0,0.0392156862745098,0.049019607843137254,0.0,102,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2022.0,0.14102564102564102,0.0,0.0,78,False
+Romania,Democratic Union of Hungarians in Romania,Conservative,2023.0,0.02631578947368421,0.02631578947368421,0.0,38,True
+Romania,Democratic Union of Hungarians in Romania,Conservative,2024.0,0.11320754716981132,0.018867924528301886,0.0,53,False
+Romania,National Liberal Party,Liberal,2024.0,0.034482758620689655,0.021220159151193633,0.0,377,False
+Romania,Social Democratic Party,Social Democracy,2019.0,0.0,0.0,0.0,10,True
+Romania,Social Democratic Party,Social Democracy,2020.0,0.031496062992125984,0.10236220472440945,0.0,127,False
+Romania,Social Democratic Party,Social Democracy,2021.0,0.04245283018867924,0.18867924528301888,0.0,212,False
+Romania,Social Democratic Party,Social Democracy,2022.0,0.015957446808510637,0.02127659574468085,0.0,188,False
+Romania,Social Democratic Party,Social Democracy,2023.0,0.0125,0.025,0.0,80,False
+Romania,Social Democratic Party,Social Democracy,2024.0,0.01680672268907563,0.025210084033613446,0.0,119,False
+Slovakia,Direction -- Social Democracy,Social Democracy,2024.0,0.005555555555555556,0.006666666666666667,0.0,900,False
+Slovakia,Progressive Slovakia,Liberal,2023.0,0.11475409836065574,0.04918032786885246,0.0,122,False
+Slovakia,Progressive Slovakia,Liberal,2024.0,0.0673076923076923,0.05448717948717949,0.0,936,False
+Slovakia,Slovak National Party,Radical Right-Wing,2016.0,0.0,0.0,0.0,32,True
+Slovakia,Slovak National Party,Radical Right-Wing,2017.0,0.0,0.018404907975460124,0.0,163,False
+Slovakia,Slovak National Party,Radical Right-Wing,2018.0,0.007751937984496124,0.007751937984496124,0.0,258,False
+Slovakia,Slovak National Party,Radical Right-Wing,2019.0,0.0,0.009433962264150943,0.0,212,False
+Slovakia,Slovak National Party,Radical Right-Wing,2020.0,0.021505376344086023,0.0967741935483871,0.0,93,False
+Slovakia,Slovak National Party,Radical Right-Wing,2021.0,0.018691588785046728,0.3130841121495327,0.0,214,False
+Slovakia,Slovak National Party,Radical Right-Wing,2022.0,0.01282051282051282,0.05128205128205128,0.0,78,False
+Slovakia,Slovak National Party,Radical Right-Wing,2023.0,0.0389908256880734,0.02522935779816514,0.0,436,False
+Slovakia,Slovak National Party,Radical Right-Wing,2024.0,0.05508474576271186,0.0,0.0,236,False
+Slovenia,Freedom Movement,Social Democracy,2022.0,0.015625,0.03125,0.0,128,False
+Slovenia,Freedom Movement,Social Democracy,2023.0,0.020289855072463767,0.06956521739130435,0.0,345,False
+Slovenia,Freedom Movement,Social Democracy,2024.0,0.056745182012847964,0.08565310492505353,0.0,934,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2018.0,0.005376344086021506,0.06451612903225806,0.0,186,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2019.0,0.015723270440251572,0.0660377358490566,0.0,318,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2020.0,0.018808777429467086,0.13793103448275862,0.0,319,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2021.0,0.030508474576271188,0.1152542372881356,0.0,295,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2022.0,0.021352313167259787,0.060498220640569395,0.0,281,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2023.0,0.01639344262295082,0.16393442622950818,0.0,244,False
+Slovenia,New Slovenia -- Christian People's Party,Christian Democracy,2024.0,0.012302284710017574,0.09314586994727592,0.0,569,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2018.0,0.015463917525773196,0.029209621993127148,0.0,582,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2019.0,0.03012633624878523,0.0923226433430515,0.0,1029,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2020.0,0.04132231404958678,0.1487603305785124,0.0,726,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2021.0,0.038394415357766144,0.1256544502617801,0.0,573,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2022.0,0.018518518518518517,0.09523809523809523,0.0,756,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2023.0,0.03305785123966942,0.13360881542699724,0.0,726,False
+Slovenia,Slovenian Democratic Party,Christian Democracy,2024.0,0.022556390977443608,0.06516290726817042,0.0,399,False
+Slovenia,The Left,Communist/Socialist,2014.0,0.03409090909090909,0.011363636363636364,0.0,88,False
+Slovenia,The Left,Communist/Socialist,2015.0,0.011904761904761904,0.015873015873015872,0.0,252,False
+Slovenia,The Left,Communist/Socialist,2016.0,0.04609929078014184,0.03900709219858156,0.0,282,False
+Slovenia,The Left,Communist/Socialist,2017.0,0.06914893617021277,0.031914893617021274,0.0,188,False
+Slovenia,The Left,Communist/Socialist,2018.0,0.0392156862745098,0.014705882352941176,0.0,204,False
+Slovenia,The Left,Communist/Socialist,2019.0,0.03864734299516908,0.07246376811594203,0.004830917874396135,207,False
+Slovenia,The Left,Communist/Socialist,2020.0,0.026755852842809364,0.07692307692307693,0.0,299,False
+Slovenia,The Left,Communist/Socialist,2021.0,0.07547169811320754,0.06132075471698113,0.0,212,False
+Slovenia,The Left,Communist/Socialist,2022.0,0.050314465408805034,0.031446540880503145,0.0,159,False
+Slovenia,The Left,Communist/Socialist,2023.0,0.046357615894039736,0.059602649006622516,0.0,151,False
+Slovenia,The Left,Communist/Socialist,2024.0,0.00904977375565611,0.01809954751131222,0.0,221,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2010.0,0.010135135135135136,0.0016891891891891893,0.0,592,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2011.0,0.002079002079002079,0.04158004158004158,0.0,481,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2012.0,0.0,0.041025641025641026,0.0,390,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2013.0,0.004155124653739612,0.04986149584487535,0.0,722,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2014.0,0.0013774104683195593,0.04132231404958678,0.0,726,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2015.0,0.010923535253227408,0.031777557100297914,0.0,1007,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2016.0,0.006069802731411229,0.01669195751138088,0.0,659,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2017.0,0.00423728813559322,0.01977401129943503,0.0,708,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2018.0,0.0017969451931716084,0.008984725965858042,0.0,1113,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2019.0,0.0028776978417266188,0.0057553956834532375,0.0,695,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2020.0,0.0,0.0896358543417367,0.0,357,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2021.0,0.004672897196261682,0.06542056074766354,0.0,214,False
+Spain,Citizens -- Party of the Citizenry,Liberal,2022.0,0.03508771929824561,0.011695906432748537,0.0,171,False
+Spain,Ciudadanos,Special Issue,2020.0,0.0,0.3333333333333333,0.0,3,True
+Spain,Ciudadanos,Special Issue,2021.0,0.006211180124223602,0.08695652173913043,0.0,161,False
+Spain,Ciudadanos,Special Issue,2022.0,0.021739130434782608,0.014492753623188406,0.0,138,False
+Spain,Ciudadanos,Special Issue,2023.0,0.017391304347826087,0.05217391304347826,0.0,115,False
+Spain,Ciudadanos,Special Issue,2024.0,0.008264462809917356,0.01652892561983471,0.0,121,False
+Spain,People's Alliance-Party,Conservative,2010.0,0.011042944785276074,0.018404907975460124,0.0,1630,False
+Spain,People's Alliance-Party,Conservative,2011.0,0.009283819628647215,0.025198938992042442,0.0,1508,False
+Spain,People's Alliance-Party,Conservative,2012.0,0.011049723756906077,0.049723756906077346,0.0,1267,False
+Spain,People's Alliance-Party,Conservative,2013.0,0.017135023989033583,0.05140507196710076,0.0,1459,False
+Spain,People's Alliance-Party,Conservative,2014.0,0.04011670313639679,0.03574033552151714,0.0,1371,False
+Spain,People's Alliance-Party,Conservative,2015.0,0.030991735537190084,0.030991735537190084,0.0,1452,False
+Spain,People's Alliance-Party,Conservative,2016.0,0.00935374149659864,0.017006802721088437,0.0008503401360544217,1176,False
+Spain,People's Alliance-Party,Conservative,2017.0,0.013571428571428571,0.025714285714285714,0.0,1400,False
+Spain,People's Alliance-Party,Conservative,2018.0,0.014326647564469915,0.017191977077363897,0.0,349,False
+Spain,People's Alliance-Party,Conservative,2021.0,0.024390243902439025,0.08536585365853659,0.0,164,False
+Spain,People's Alliance-Party,Conservative,2022.0,0.017446471054718478,0.020618556701030927,0.0,1261,False
+Spain,People's Alliance-Party,Conservative,2023.0,0.005940594059405941,0.007920792079207921,0.0,505,False
+Spain,People's Alliance-Party,Conservative,2024.0,0.01425114278031729,0.02581339069642377,0.0,3719,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2010.0,0.01937046004842615,0.01694915254237288,0.0,1239,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2011.0,0.01055662188099808,0.03166986564299424,0.0,1042,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2012.0,0.019672131147540985,0.054098360655737705,0.0,1220,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2013.0,0.015895953757225433,0.041184971098265896,0.0,1384,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2014.0,0.01712583767684289,0.039463886820551006,0.0,1343,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2015.0,0.01694915254237288,0.039250669045495096,0.0,1121,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2016.0,0.00676818950930626,0.018612521150592216,0.0,591,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2017.0,0.027552674230145867,0.014586709886547812,0.0,617,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2018.0,0.01576182136602452,0.0148861646234676,0.0,1142,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2019.0,0.028769841269841268,0.007936507936507936,0.0,1008,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2020.0,0.026149684400360685,0.16140667267808836,0.0,1109,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2021.0,0.03680981595092025,0.07975460122699386,0.0,652,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2022.0,0.024761904761904763,0.02761904761904762,0.0,1050,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2023.0,0.018050541516245487,0.039711191335740074,0.0,277,False
+Spain,Spanish Socialist Workers Party,Social Democracy,2024.0,0.04665492957746479,0.05369718309859155,0.0,1136,False
+Spain,Voice,Radical Right-Wing,2020.0,0.0024125452352231603,0.1097708082026538,0.0,829,False
+Spain,Voice,Radical Right-Wing,2021.0,0.019332161687170474,0.0421792618629174,0.0,569,False
+Spain,Voice,Radical Right-Wing,2022.0,0.02181818181818182,0.014545454545454545,0.0,275,False
+Spain,Voice,Radical Right-Wing,2023.0,0.023323615160349854,0.0029154518950437317,0.0,343,False
+Spain,Voice,Radical Right-Wing,2024.0,0.03225806451612903,0.011385199240986717,0.0,527,False
+Sweden,Centre Party,Agrarian,2013.0,0.5,0.0,0.0,4,True
+Sweden,Centre Party,Agrarian,2014.0,0.1716171617161716,0.019801980198019802,0.0,303,False
+Sweden,Centre Party,Agrarian,2015.0,0.16489361702127658,0.007978723404255319,0.0,376,False
+Sweden,Centre Party,Agrarian,2016.0,0.13043478260869565,0.007246376811594203,0.0,552,False
+Sweden,Centre Party,Agrarian,2017.0,0.1963470319634703,0.0593607305936073,0.0,438,False
+Sweden,Centre Party,Agrarian,2018.0,0.15755627009646303,0.10289389067524116,0.0,311,False
+Sweden,Centre Party,Agrarian,2019.0,0.23461538461538461,0.11538461538461539,0.0,260,False
+Sweden,Centre Party,Agrarian,2020.0,0.11413043478260869,0.17391304347826086,0.0,368,False
+Sweden,Centre Party,Agrarian,2021.0,0.1457286432160804,0.08040201005025126,0.0,199,False
+Sweden,Centre Party,Agrarian,2022.0,0.1875,0.046875,0.0,128,False
+Sweden,Centre Party,Agrarian,2023.0,0.2127659574468085,0.0,0.0,94,False
+Sweden,Centre Party,Agrarian,2024.0,0.24087591240875914,0.014598540145985401,0.0,137,False
+Sweden,Fi,Special Issue,2010.0,0.015151515151515152,0.0,0.0,132,False
+Sweden,Fi,Special Issue,2011.0,0.015151515151515152,0.0,0.0,66,False
+Sweden,Fi,Special Issue,2012.0,0.0,0.029411764705882353,0.0,34,True
+Sweden,Fi,Special Issue,2013.0,0.0,0.0,0.0,78,False
+Sweden,Fi,Special Issue,2014.0,0.01875,0.0,0.0,160,False
+Sweden,Fi,Special Issue,2015.0,0.012987012987012988,0.025974025974025976,0.0,77,False
+Sweden,Fi,Special Issue,2016.0,0.02608695652173913,0.017391304347826087,0.0,115,False
+Sweden,Fi,Special Issue,2017.0,0.015748031496062992,0.015748031496062992,0.0,127,False
+Sweden,Fi,Special Issue,2018.0,0.05343511450381679,0.04580152671755725,0.0,131,False
+Sweden,Fi,Special Issue,2019.0,0.07692307692307693,0.0,0.0,26,True
+Sweden,Fi,Special Issue,2020.0,0.0,0.1,0.0,40,False
+Sweden,Fi,Special Issue,2021.0,0.225,0.025,0.0,40,False
+Sweden,Fi,Special Issue,2022.0,0.22580645161290322,0.0,0.0,31,True
+Sweden,Folkpartiet,Liberal,2013.0,0.0,0.0,0.0,3,True
+Sweden,Folkpartiet,Liberal,2014.0,0.005952380952380952,0.005952380952380952,0.0,168,False
+Sweden,Folkpartiet,Liberal,2015.0,0.039603960396039604,0.007425742574257425,0.0,404,False
+Sweden,Folkpartiet,Liberal,2016.0,0.020833333333333332,0.0078125,0.0,384,False
+Sweden,Folkpartiet,Liberal,2017.0,0.030927835051546393,0.030927835051546393,0.0,291,False
+Sweden,Folkpartiet,Liberal,2018.0,0.03167420814479638,0.03619909502262444,0.0,221,False
+Sweden,Folkpartiet,Liberal,2019.0,0.059782608695652176,0.03260869565217391,0.0,184,False
+Sweden,Folkpartiet,Liberal,2020.0,0.02247191011235955,0.033707865168539325,0.0,178,False
+Sweden,Folkpartiet,Liberal,2021.0,0.03773584905660377,0.018867924528301886,0.0,106,False
+Sweden,Folkpartiet,Liberal,2022.0,0.0,0.019230769230769232,0.0,104,False
+Sweden,KD,Christian Democracy,2015.0,0.0,0.0,0.0,2,True
+Sweden,KD,Christian Democracy,2016.0,0.041666666666666664,0.0625,0.0,48,False
+Sweden,KD,Christian Democracy,2017.0,0.007518796992481203,0.09774436090225563,0.0,133,False
+Sweden,KD,Christian Democracy,2018.0,0.0,0.21649484536082475,0.0,97,False
+Sweden,KD,Christian Democracy,2019.0,0.023255813953488372,0.06976744186046512,0.0,43,False
+Sweden,KD,Christian Democracy,2020.0,0.0379746835443038,0.16455696202531644,0.0,79,False
+Sweden,KD,Christian Democracy,2021.0,0.05405405405405406,0.0945945945945946,0.0,74,False
+Sweden,KD,Christian Democracy,2022.0,0.0196078431372549,0.029411764705882353,0.0,102,False
+Sweden,Left Party (Communists),Communist/Socialist,2012.0,0.09900990099009901,0.039603960396039604,0.0,101,False
+Sweden,Left Party (Communists),Communist/Socialist,2013.0,0.05660377358490566,0.030660377358490566,0.0,424,False
+Sweden,Left Party (Communists),Communist/Socialist,2014.0,0.065625,0.040625,0.0,320,False
+Sweden,Left Party (Communists),Communist/Socialist,2015.0,0.0319634703196347,0.0684931506849315,0.0,219,False
+Sweden,Left Party (Communists),Communist/Socialist,2016.0,0.04782608695652174,0.030434782608695653,0.0,230,False
+Sweden,Left Party (Communists),Communist/Socialist,2017.0,0.005128205128205128,0.14358974358974358,0.0,195,False
+Sweden,Left Party (Communists),Communist/Socialist,2018.0,0.03734439834024896,0.04564315352697095,0.0,241,False
+Sweden,Left Party (Communists),Communist/Socialist,2019.0,0.1826086956521739,0.008695652173913044,0.0,115,False
+Sweden,Left Party (Communists),Communist/Socialist,2020.0,0.0625,0.041666666666666664,0.0,48,False
+Sweden,Left Party (Communists),Communist/Socialist,2021.0,0.016129032258064516,0.0,0.0,62,False
+Sweden,Left Party (Communists),Communist/Socialist,2022.0,0.1125,0.0375,0.0,80,False
+Sweden,Left Party (Communists),Communist/Socialist,2023.0,0.022222222222222223,0.06666666666666667,0.0,45,False
+Sweden,Left Party (Communists),Communist/Socialist,2024.0,0.05172413793103448,0.06896551724137931,0.0,58,False
+Sweden,MP,Green,2010.0,0.19377162629757785,0.020761245674740483,0.0,289,False
+Sweden,MP,Green,2011.0,0.22127659574468084,0.00851063829787234,0.0,235,False
+Sweden,MP,Green,2012.0,0.21428571428571427,0.014285714285714285,0.0,210,False
+Sweden,MP,Green,2013.0,0.15920398009950248,0.009950248756218905,0.0,201,False
+Sweden,MP,Green,2014.0,0.27800829875518673,0.0,0.0,241,False
+Sweden,MP,Green,2015.0,0.23076923076923078,0.0,0.0,26,True
+Sweden,MP,Green,2016.0,0.125,0.0,0.0,24,True
+Sweden,MP,Green,2017.0,0.43902439024390244,0.0,0.0,41,False
+Sweden,MP,Green,2018.0,0.3783783783783784,0.05405405405405406,0.0,74,False
+Sweden,MP,Green,2019.0,0.3055555555555556,0.0,0.0,36,True
+Sweden,MP,Green,2020.0,0.3018867924528302,0.03773584905660377,0.0,53,False
+Sweden,MP,Green,2021.0,0.4585152838427948,0.017467248908296942,0.0,229,False
+Sweden,MP,Green,2022.0,0.5247524752475248,0.019801980198019802,0.0,101,False
+Sweden,Moderate Party,Conservative,2015.0,0.0182370820668693,0.015197568389057751,0.0,329,False
+Sweden,Moderate Party,Conservative,2016.0,0.0,0.011695906432748537,0.0,171,False
+Sweden,Moderate Party,Conservative,2017.0,0.0,0.023255813953488372,0.0,129,False
+Sweden,Moderate Party,Conservative,2018.0,0.04827586206896552,0.05517241379310345,0.0,145,False
+Sweden,Moderate Party,Conservative,2019.0,0.029069767441860465,0.029069767441860465,0.0,172,False
+Sweden,Moderate Party,Conservative,2020.0,0.05555555555555555,0.1111111111111111,0.0,108,False
+Sweden,Moderate Party,Conservative,2021.0,0.024390243902439025,0.0,0.0,41,False
+Sweden,Moderate Party,Conservative,2022.0,0.008928571428571428,0.0,0.0,112,False
+Sweden,Moderate Party,Conservative,2023.0,0.03773584905660377,0.03773584905660377,0.0,53,False
+Sweden,Moderate Party,Conservative,2024.0,0.07142857142857142,0.03571428571428571,0.0,56,False
+Sweden,Social Democrats,Social Democracy,2017.0,0.01652892561983471,0.06198347107438017,0.0,242,False
+Sweden,Social Democrats,Social Democracy,2018.0,0.024390243902439025,0.11585365853658537,0.0,328,False
+Sweden,Social Democrats,Social Democracy,2019.0,0.0891089108910891,0.0594059405940594,0.0,202,False
+Sweden,Social Democrats,Social Democracy,2020.0,0.0371900826446281,0.1859504132231405,0.0,242,False
+Sweden,Social Democrats,Social Democracy,2021.0,0.044585987261146494,0.11464968152866242,0.0,157,False
+Sweden,Social Democrats,Social Democracy,2022.0,0.052132701421800945,0.05687203791469194,0.0,211,False
+Sweden,Social Democrats,Social Democracy,2023.0,0.02702702702702703,0.036036036036036036,0.0,111,False
+Sweden,Social Democrats,Social Democracy,2024.0,0.013574660633484163,0.06334841628959276,0.0,221,False
+Sweden,Sweden Democrats,Radical Right-Wing,2010.0,0.0,0.03048780487804878,0.0,164,False
+Sweden,Sweden Democrats,Radical Right-Wing,2011.0,0.0070921985815602835,0.0425531914893617,0.0,141,False
+Sweden,Sweden Democrats,Radical Right-Wing,2012.0,0.0,0.0,0.0,91,False
+Sweden,Sweden Democrats,Radical Right-Wing,2013.0,0.0,0.0547945205479452,0.0,73,False
+Sweden,Sweden Democrats,Radical Right-Wing,2014.0,0.0,0.007936507936507936,0.0,126,False
+Sweden,Sweden Democrats,Radical Right-Wing,2015.0,0.0,0.021739130434782608,0.0,92,False
+Sweden,Sweden Democrats,Radical Right-Wing,2016.0,0.023809523809523808,0.0,0.0,84,False
+Sweden,Sweden Democrats,Radical Right-Wing,2017.0,0.008771929824561403,0.02631578947368421,0.0,114,False
+Sweden,Sweden Democrats,Radical Right-Wing,2018.0,0.020202020202020204,0.0,0.0,99,False
+Sweden,Sweden Democrats,Radical Right-Wing,2019.0,0.0,0.0,0.0,36,True
+Sweden,Sweden Democrats,Radical Right-Wing,2020.0,0.02564102564102564,0.10256410256410256,0.0,78,False
+Sweden,Sweden Democrats,Radical Right-Wing,2021.0,0.0625,0.09375,0.0,64,False
+Sweden,Sweden Democrats,Radical Right-Wing,2022.0,0.04081632653061224,0.030612244897959183,0.0,98,False
+Sweden,Sweden Democrats,Radical Right-Wing,2023.0,0.0,0.07407407407407407,0.0,27,True
+Sweden,Sweden Democrats,Radical Right-Wing,2024.0,0.044444444444444446,0.0,0.0,45,False
+Switzerland,Catholic Conservative / Christian Democratic People's Party,Christian Democracy,2021.0,0.061224489795918366,0.3673469387755102,0.0,49,False
+Switzerland,Catholic Conservative / Christian Democratic People's Party,Christian Democracy,2022.0,0.02127659574468085,0.2765957446808511,0.0,47,False
+Switzerland,Catholic Conservative / Christian Democratic People's Party,Christian Democracy,2023.0,0.0,0.1864406779661017,0.0,59,False
+Switzerland,Catholic Conservative / Christian Democratic People's Party,Christian Democracy,2024.0,0.021739130434782608,0.18478260869565216,0.0,92,False
+Switzerland,Greens,Green,2010.0,0.2459016393442623,0.01639344262295082,0.0,122,False
+Switzerland,Greens,Green,2011.0,0.13138686131386862,0.014598540145985401,0.0,137,False
+Switzerland,Greens,Green,2012.0,0.14953271028037382,0.009345794392523364,0.0,107,False
+Switzerland,Greens,Green,2013.0,0.10317460317460317,0.0,0.0,126,False
+Switzerland,Greens,Green,2014.0,0.2,0.025806451612903226,0.0,155,False
+Switzerland,Greens,Green,2015.0,0.25287356321839083,0.011494252873563218,0.0,174,False
+Switzerland,Greens,Green,2016.0,0.14925373134328357,0.014925373134328358,0.0,134,False
+Switzerland,Greens,Green,2017.0,0.08571428571428572,0.009523809523809525,0.0,105,False
+Switzerland,Greens,Green,2018.0,0.14285714285714285,0.0,0.0,105,False
+Switzerland,Greens,Green,2019.0,0.24390243902439024,0.024390243902439025,0.0,82,False
+Switzerland,Greens,Green,2020.0,0.2872340425531915,0.07446808510638298,0.0,94,False
+Switzerland,Greens,Green,2021.0,0.21212121212121213,0.08080808080808081,0.0,99,False
+Switzerland,Greens,Green,2022.0,0.2375,0.0125,0.0,80,False
+Switzerland,Greens,Green,2023.0,0.4090909090909091,0.022727272727272728,0.0,88,False
+Switzerland,Greens,Green,2024.0,0.22790697674418606,0.027906976744186046,0.0,215,False
+Switzerland,Radical Democratic Party,Liberal,2010.0,0.0,0.022556390977443608,0.0,133,False
+Switzerland,Radical Democratic Party,Liberal,2011.0,0.006535947712418301,0.026143790849673203,0.0,153,False
+Switzerland,Radical Democratic Party,Liberal,2012.0,0.012345679012345678,0.06172839506172839,0.0,162,False
+Switzerland,Radical Democratic Party,Liberal,2013.0,0.0,0.08695652173913043,0.0,92,False
+Switzerland,Radical Democratic Party,Liberal,2014.0,0.027624309392265192,0.0718232044198895,0.0,181,False
+Switzerland,Radical Democratic Party,Liberal,2015.0,0.03076923076923077,0.023076923076923078,0.0,130,False
+Switzerland,Radical Democratic Party,Liberal,2016.0,0.008264462809917356,0.01652892561983471,0.0,121,False
+Switzerland,Radical Democratic Party,Liberal,2017.0,0.02702702702702703,0.0,0.0,74,False
+Switzerland,Radical Democratic Party,Liberal,2018.0,0.03,0.07,0.0,100,False
+Switzerland,Radical Democratic Party,Liberal,2019.0,0.2169811320754717,0.04716981132075472,0.0,106,False
+Switzerland,Radical Democratic Party,Liberal,2020.0,0.10294117647058823,0.11029411764705882,0.0,136,False
+Switzerland,Radical Democratic Party,Liberal,2021.0,0.0782608695652174,0.24347826086956523,0.0,115,False
+Switzerland,Radical Democratic Party,Liberal,2022.0,0.045454545454545456,0.07954545454545454,0.0,88,False
+Switzerland,Radical Democratic Party,Liberal,2023.0,0.015625,0.046875,0.0,64,False
+Switzerland,Radical Democratic Party,Liberal,2024.0,0.030303030303030304,0.030303030303030304,0.0,132,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2012.0,0.005952380952380952,0.08333333333333333,0.0,168,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2013.0,0.0,0.12921348314606743,0.0,178,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2014.0,0.011695906432748537,0.07602339181286549,0.0,171,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2015.0,0.014563106796116505,0.038834951456310676,0.0,206,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2016.0,0.01775147928994083,0.05325443786982249,0.0,169,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2017.0,0.013513513513513514,0.04054054054054054,0.0,148,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2018.0,0.03888888888888889,0.06111111111111111,0.0,180,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2019.0,0.061224489795918366,0.1292517006802721,0.0,147,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2020.0,0.02112676056338028,0.08450704225352113,0.0,142,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2021.0,0.15037593984962405,0.12781954887218044,0.0,133,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2022.0,0.013071895424836602,0.08496732026143791,0.0,153,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2023.0,0.008771929824561403,0.09649122807017543,0.0,114,False
+Switzerland,Social Democratic Party of Switzerland,Social Democracy,2024.0,0.06545454545454546,0.04363636363636364,0.0,275,False
+Switzerland,Swiss People's Party,Agrarian,2010.0,0.0,0.007142857142857143,0.0,140,False
+Switzerland,Swiss People's Party,Agrarian,2011.0,0.00641025641025641,0.0,0.0,156,False
+Switzerland,Swiss People's Party,Agrarian,2012.0,0.008130081300813009,0.016260162601626018,0.0,123,False
+Switzerland,Swiss People's Party,Agrarian,2013.0,0.007874015748031496,0.007874015748031496,0.0,127,False
+Switzerland,Swiss People's Party,Agrarian,2014.0,0.0,0.009009009009009009,0.0,111,False
+Switzerland,Swiss People's Party,Agrarian,2015.0,0.008695652173913044,0.008695652173913044,0.0,115,False
+Switzerland,Swiss People's Party,Agrarian,2016.0,0.013513513513513514,0.0,0.0,74,False
+Switzerland,Swiss People's Party,Agrarian,2017.0,0.029411764705882353,0.0,0.0,68,False
+Switzerland,Swiss People's Party,Agrarian,2018.0,0.022727272727272728,0.0,0.0,88,False
+Switzerland,Swiss People's Party,Agrarian,2019.0,0.02247191011235955,0.02247191011235955,0.0,89,False
+Switzerland,Swiss People's Party,Agrarian,2020.0,0.025,0.05,0.0,80,False
+Switzerland,Swiss People's Party,Agrarian,2021.0,0.043478260869565216,0.2028985507246377,0.0,69,False
+Switzerland,Swiss People's Party,Agrarian,2022.0,0.04,0.05333333333333334,0.0,75,False
+Switzerland,Swiss People's Party,Agrarian,2023.0,0.0375,0.0125,0.0,80,False
+Switzerland,Swiss People's Party,Agrarian,2024.0,0.018867924528301886,0.0,0.0,159,False
+Uk,Conservatives,Conservative,2010.0,0.00911854103343465,0.06990881458966565,0.0,329,False
+Uk,Conservatives,Conservative,2011.0,0.020491803278688523,0.06967213114754098,0.0,244,False
+Uk,Conservatives,Conservative,2012.0,0.0,0.0847457627118644,0.0,118,False
+Uk,Conservatives,Conservative,2013.0,0.0,0.0392156862745098,0.0,102,False
+Uk,Conservatives,Conservative,2014.0,0.03333333333333333,0.1,0.0,30,True
+Uk,Conservatives,Conservative,2015.0,0.0,0.02127659574468085,0.0,47,False
+Uk,Conservatives,Conservative,2016.0,0.02127659574468085,0.02127659574468085,0.0,47,False
+Uk,Conservatives,Conservative,2017.0,0.021052631578947368,0.031578947368421054,0.0,95,False
+Uk,Conservatives,Conservative,2018.0,0.0,0.08823529411764706,0.0,34,True
+Uk,Conservatives,Conservative,2019.0,0.017467248908296942,0.09606986899563319,0.0,229,False
+Uk,Conservatives,Conservative,2020.0,0.014563106796116505,0.2912621359223301,0.0,206,False
+Uk,Conservatives,Conservative,2021.0,0.0,0.23255813953488372,0.0,43,False
+Uk,Conservatives,Conservative,2022.0,0.02564102564102564,0.0,0.0,39,True
+Uk,Conservatives,Conservative,2024.0,0.0,0.024096385542168676,0.0,83,False
+Uk,Democratic Unionist Party,Conservative,2012.0,0.0,0.1111111111111111,0.0,9,True
+Uk,Democratic Unionist Party,Conservative,2013.0,0.0,0.037383177570093455,0.0,107,False
+Uk,Democratic Unionist Party,Conservative,2014.0,0.01020408163265306,0.04081632653061224,0.0,98,False
+Uk,Democratic Unionist Party,Conservative,2015.0,0.02830188679245283,0.02830188679245283,0.0,106,False
+Uk,Democratic Unionist Party,Conservative,2016.0,0.019267822736030827,0.0838150289017341,0.0,1038,False
+Uk,Democratic Unionist Party,Conservative,2017.0,0.0033444816053511705,0.03678929765886288,0.0,299,False
+Uk,Democratic Unionist Party,Conservative,2018.0,0.0029239766081871343,0.03508771929824561,0.0,342,False
+Uk,Democratic Unionist Party,Conservative,2019.0,0.004629629629629629,0.05092592592592592,0.0,432,False
+Uk,Democratic Unionist Party,Conservative,2020.0,0.04101326899879373,0.14234016887816647,0.0,829,False
+Uk,Democratic Unionist Party,Conservative,2021.0,0.042364532019704436,0.11921182266009853,0.0009852216748768472,1015,False
+Uk,Democratic Unionist Party,Conservative,2022.0,0.008361204013377926,0.06856187290969899,0.0,598,False
+Uk,Green Party,Green,2010.0,0.14671814671814673,0.04247104247104247,0.0,259,False
+Uk,Green Party,Green,2011.0,0.16981132075471697,0.03773584905660377,0.0,318,False
+Uk,Green Party,Green,2012.0,0.14736842105263157,0.042105263157894736,0.0,190,False
+Uk,Green Party,Green,2013.0,0.11428571428571428,0.05,0.0,280,False
+Uk,Green Party,Green,2014.0,0.13392857142857142,0.023809523809523808,0.0,336,False
+Uk,Green Party,Green,2015.0,0.18561484918793503,0.025522041763341066,0.0,431,False
+Uk,Green Party,Green,2016.0,0.18666666666666668,0.06666666666666667,0.0,450,False
+Uk,Green Party,Green,2017.0,0.22019867549668873,0.026490066225165563,0.0,604,False
+Uk,Green Party,Green,2018.0,0.22745098039215686,0.01568627450980392,0.00392156862745098,255,False
+Uk,Green Party,Green,2019.0,0.4153846153846154,0.0,0.0,260,False
+Uk,Green Party,Green,2020.0,0.30272108843537415,0.14285714285714285,0.013605442176870748,294,False
+Uk,Green Party,Green,2021.0,0.425,0.125,0.0,240,False
+Uk,Green Party,Green,2022.0,0.22941176470588234,0.058823529411764705,0.0058823529411764705,170,False
+Uk,Green Party,Green,2024.0,0.1485148514851485,0.019801980198019802,0.0,202,False
+Uk,Labour,Social Democracy,2010.0,0.010050251256281407,0.06532663316582915,0.0,199,False
+Uk,Labour,Social Democracy,2011.0,0.03111111111111111,0.05333333333333334,0.0,225,False
+Uk,Labour,Social Democracy,2012.0,0.01963350785340314,0.07984293193717278,0.0,764,False
+Uk,Labour,Social Democracy,2013.0,0.012091898428053204,0.11729141475211609,0.0,827,False
+Uk,Labour,Social Democracy,2014.0,0.01758366420873511,0.12138400453771979,0.0,1763,False
+Uk,Labour,Social Democracy,2015.0,0.014795474325500435,0.1453437771975631,0.0,1149,False
+Uk,Labour,Social Democracy,2016.0,0.009855951478392721,0.13191811978771797,0.0,1319,False
+Uk,Labour,Social Democracy,2017.0,0.012427506213753107,0.13670256835128416,0.0,1207,False
+Uk,Labour,Social Democracy,2018.0,0.020984665052461663,0.13317191283292978,0.0,1239,False
+Uk,Labour,Social Democracy,2019.0,0.05806451612903226,0.10681003584229391,0.0,1395,False
+Uk,Labour,Social Democracy,2020.0,0.02591792656587473,0.21382289416846653,0.0,1389,False
+Uk,Labour,Social Democracy,2021.0,0.04428904428904429,0.16200466200466201,0.0,858,False
+Uk,Labour,Social Democracy,2022.0,0.04918032786885246,0.08196721311475409,0.0,122,False
+Uk,Labour,Social Democracy,2023.0,0.03125,0.0625,0.0,64,False
+Uk,Labour,Social Democracy,2024.0,0.02702702702702703,0.05405405405405406,0.0,37,True
+Uk,Liberals,Liberal,2010.0,0.08108108108108109,0.05405405405405406,0.0,37,True
+Uk,Liberals,Liberal,2011.0,0.0,0.05454545454545454,0.0,55,False
+Uk,Liberals,Liberal,2012.0,0.03389830508474576,0.0,0.0,59,False
+Uk,Liberals,Liberal,2013.0,0.02702702702702703,0.013513513513513514,0.0,74,False
+Uk,Liberals,Liberal,2014.0,0.050200803212851405,0.07028112449799197,0.0,498,False
+Uk,Liberals,Liberal,2015.0,0.03225806451612903,0.08602150537634409,0.0,372,False
+Uk,Liberals,Liberal,2016.0,0.06756756756756757,0.0945945945945946,0.0,74,False
+Uk,Liberals,Liberal,2022.0,0.041666666666666664,0.041666666666666664,0.0,48,False
+Uk,Liberals,Liberal,2023.0,0.0782608695652174,0.17391304347826086,0.0,115,False
+Uk,Liberals,Liberal,2024.0,0.056962025316455694,0.08227848101265822,0.0,158,False
+Uk,Plaid,Special Issue,2010.0,0.0,0.0,0.0,14,True
+Uk,Plaid,Special Issue,2011.0,0.012195121951219513,0.15853658536585366,0.0,82,False
+Uk,Plaid,Special Issue,2012.0,0.014084507042253521,0.28169014084507044,0.0,71,False
+Uk,Plaid,Special Issue,2013.0,0.0,0.17105263157894737,0.0,152,False
+Uk,Plaid,Special Issue,2014.0,0.019230769230769232,0.11538461538461539,0.0,156,False
+Uk,Plaid,Special Issue,2015.0,0.01832460732984293,0.1518324607329843,0.0,382,False
+Uk,Plaid,Special Issue,2016.0,0.014044943820224719,0.09269662921348315,0.0,356,False
+Uk,Plaid,Special Issue,2017.0,0.022727272727272728,0.08441558441558442,0.0,308,False
+Uk,Plaid,Special Issue,2018.0,0.02631578947368421,0.13157894736842105,0.0,38,True
+Uk,Plaid,Special Issue,2019.0,0.046511627906976744,0.046511627906976744,0.004651162790697674,215,False
+Uk,Plaid,Special Issue,2020.0,0.029490616621983913,0.32439678284182305,0.002680965147453083,373,False
+Uk,Plaid,Special Issue,2021.0,0.1288135593220339,0.15932203389830507,0.0,295,False
+Uk,Plaid,Special Issue,2022.0,0.015873015873015872,0.14285714285714285,0.0,126,False
+Uk,Scottish National Party,Social Democracy,2010.0,0.0,0.0,0.0,98,False
+Uk,Scottish National Party,Social Democracy,2011.0,0.03436426116838488,0.06529209621993128,0.003436426116838488,291,False
+Uk,Scottish National Party,Social Democracy,2012.0,0.014641288433382138,0.04538799414348463,0.0,683,False
+Uk,Scottish National Party,Social Democracy,2013.0,0.02346041055718475,0.039589442815249266,0.0,682,False
+Uk,Scottish National Party,Social Democracy,2014.0,0.007909604519774011,0.0384180790960452,0.0011299435028248588,885,False
+Uk,Scottish National Party,Social Democracy,2015.0,0.0059382422802850355,0.055819477434679333,0.0,842,False
+Uk,Scottish National Party,Social Democracy,2016.0,0.018796992481203006,0.06390977443609022,0.0,266,False
+Uk,Scottish National Party,Social Democracy,2017.0,0.025889967637540454,0.042071197411003236,0.0,309,False
+Uk,Scottish National Party,Social Democracy,2018.0,0.034013605442176874,0.05442176870748299,0.0,294,False
+Uk,Scottish National Party,Social Democracy,2019.0,0.045307443365695796,0.016181229773462782,0.0,309,False
+Uk,Scottish National Party,Social Democracy,2020.0,0.06097560975609756,0.21951219512195122,0.0,164,False
+Uk,Scottish National Party,Social Democracy,2021.0,0.06923076923076923,0.16538461538461538,0.0038461538461538464,260,False
+Uk,Scottish National Party,Social Democracy,2022.0,0.05434782608695652,0.010869565217391304,0.0,92,False
+Uk,UKIP,Radical Right-Wing,2010.0,0.0391304347826087,0.01956521739130435,0.0,460,False
+Uk,UKIP,Radical Right-Wing,2011.0,0.040268456375838924,0.020134228187919462,0.0,149,False
+Uk,UKIP,Radical Right-Wing,2012.0,0.016129032258064516,0.016129032258064516,0.0,248,False
+Uk,UKIP,Radical Right-Wing,2013.0,0.0,0.0,0.0,65,False
+Uk,UKIP,Radical Right-Wing,2015.0,0.02097902097902098,0.037296037296037296,0.0,429,False
+Uk,UKIP,Radical Right-Wing,2016.0,0.017130620985010708,0.029978586723768737,0.0,467,False
+Uk,UKIP,Radical Right-Wing,2017.0,0.021897810218978103,0.046228710462287104,0.0,411,False
+Uk,UKIP,Radical Right-Wing,2018.0,0.0,0.011049723756906077,0.0,181,False
+Uk,UKIP,Radical Right-Wing,2019.0,0.02912621359223301,0.0,0.0,103,False
+Uk,UKIP,Radical Right-Wing,2020.0,0.041237113402061855,0.061855670103092786,0.0,97,False
+Uk,UKIP,Radical Right-Wing,2021.0,0.0,0.08,0.0,25,True
+Uk,UKIP,Radical Right-Wing,2022.0,0.05,0.03571428571428571,0.0,140,False
