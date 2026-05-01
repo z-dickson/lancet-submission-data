@@ -181,8 +181,8 @@ climate crisis remains electing politicians and parties who prioritise
 climate change and its associated risks to public health. This indicator
 tracks European political parties' emphasis of public health and climate
 change in official party communication via press releases. The indicator
-is based on nearly 590,000 press releases from political parties in 24
-EU countries and the UK, covering a period from 2010 to 2025. The data
+is based on approximately 571,000 press releases from 127 political parties in 27
+European countries and the UK, covering a period from 2010 to 2025. The data
 were analysed using a fine-tuned language model trained and validated to
 identify the primary substantive focus of the press releases. The
 results are presented according to the associated party family of each
@@ -191,13 +191,14 @@ pandemic had on the political agenda, with a significant increase in
 press releases addressing public health in 2020 and 2021. However, the
 data also show that press releases focusing on climate change has
 remained relatively stable over the past 15 years, with Green parties a
-notable exception. Green, Liberal and Conservative parties are the most
-likely to link public health to climate change, while radical right-wing
-parties are the least likely to do so. At the height of the pandemic in
-2020, nearly 250 press releases were issued by social democratic parties
-that framed climate change as a public health issue. Yet, these numbers
-have since declined, with parties focusing on the climate-health nexus
-in only about one percent of their press releases in 2025.
+notable exception. Social Democratic, Liberal, and Agrarian
+parties have historically been the most likely to link public health to
+climate change, while radical right-wing parties are the least likely to
+do so. At the height of the pandemic in 2020, Social Democratic parties
+issued the greatest number of press releases linking climate change and
+public health, with notable increases across all party families. These
+numbers have since declined, with parties focusing on the climate-health
+nexus in around 0.3 to 1.5 percent of their press releases in 2025.
 
 \pandocbounded{\includegraphics[keepaspectratio]{indicator_5_3_3.pdf}}
 
@@ -212,8 +213,8 @@ change}\label{political-party-engagement-with-health-and-climate-change}
 
 This indicator tracks European political parties' emphasis of public
 health and climate change in official party communication via press
-releases. The indicator is based on nearly 590,000 press releases from
-political parties in 24 EU countries and the UK, covering a period from
+releases. The indicator is based on approximately 571,000 press releases from
+127 political parties in 27 European countries and the UK, covering a period from
 2010 to 2025. The data were analysed using a validated fine-tuned
 language model trained on pre-labeled data that identifies the primary
 substantive focus of the press releases. The results are presented
@@ -223,24 +224,26 @@ political agenda, with a significant increase in press releases
 addressing public health in 2020 and 2021. However, the data also show
 that press releases focusing on climate change has remained relatively
 stable over the past 15 years, with Green parties a notable exception.
-Social Democratic, Liberal and Conservative parties are the most likely
-to link public health to climate change, while radical right-wing
-parties are the least likely to do so. At the height of the pandemic in
-2020, nearly 250 press releases were issued by social democratic parties
-that framed climate change as a public health issue. However, these
+Social Democratic, Liberal, and Agrarian parties have
+historically been the most likely to link public health to climate
+change, while radical right-wing parties are the least likely to do so.
+At the height of the pandemic in 2020, Social Democratic parties issued
+the greatest number of press releases linking climate change and public
+health, with notable increases across all party families. However, these
 numbers have since declined, with parties focusing on the climate-health
-nexus in only about one percent of their press releases in 2025.
+nexus in around 0.3 to 1.5 percent of their press releases in 2025.
 
 \subsubsection{Geographic coverage of
 Europe}\label{geographic-coverage-of-europe}
 
-This indicator covers 24 EU countries and the UK. The countries included
-are: Poland, Germany, Ireland, Netherlands, Slovenia, Denmark, Hungary,
-Austria, Sweden, Bulgaria, Spain, Croatia, Finland, United Kingdom,
-Greece, Switzerland, Estonia, France, Portugal, Cyprus, Slovakia, Italy,
-Czech Republic, Belgium, Romania, and Lithuania. The countries were
-selected based on the availability of press releases from political
-parties.
+This indicator covers 27 European countries and the UK. The 24 EU member
+states included are: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech
+Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary,
+Ireland, Italy, Lithuania, Netherlands, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, and Sweden. Additionally, the indicator covers
+three non-EU European countries: Iceland and Norway (EEA members) and
+Switzerland, as well as the United Kingdom. The countries were selected
+based on the availability of press releases from political parties.
 
 \subsubsection{Methods}\label{methods}
 
@@ -258,55 +261,61 @@ transportation, and public lands. One small modification was made to
 change the focus of the category ``environment'' to ``environment and
 climate'' to better reflect the focus of the indicator.
 
-The model was trained on a dataset of over 136,000 examples drawn from
-three complementary sources: zero-shot labels generated by OpenAI's
-GPT-4.1-nano and GPT-5-mini models, and publicly available human-coded
-press release data from the Comparative Agendas Project
-\citep{walgrave2019comparative}. Zero-shot labels were produced by
-submitting randomly sampled press releases to the OpenAI Batch API,
-asking each model to classify the primary substantive focus of the press
-release according to the modified CAP classification scheme. A
-multilingual XLM-RoBERTa-large model pre-trained by Facebook AI
-\citep{xlm_roberta} was used as the base model for the fine-tuning
-process. The model achieved a weighted F1 score of 0.74 on a held-out
-test set of 20,421 examples, indicating strong accuracy in predicting
-the substantive focus of multilingual press releases. Full results of
-the model evaluation are presented below. The model has been made
-publicly available on HuggingFace at:
+The model was trained on a dataset of 121,473 examples drawn exclusively
+from human-labeled and CAP-coded sources, comprising three complementary
+datasets: (1) 2,122 hand-coded press releases from the PartyPress project
+\citep{erfort2023partypress}, double-verified by the research team; (2)
+1,208 hand-coded press releases coded with high confidence by research
+assistants; and (3) 118,147 publicly available CAP-coded press releases
+from the Comparative Agendas Project \citep{walgrave2019comparative}. The
+combined dataset was split into training (70\%), validation (15\%), and
+test (15\%) sets using a stratified split by label, yielding 85,031
+training, 18,221 validation, and 18,221 test examples. To address class
+imbalance across the 21 CAP categories, inverse-frequency class weights
+were applied in the cross-entropy loss function, combined with label
+smoothing ($\epsilon = 0.1$) to improve model calibration. Training used
+a cosine learning-rate schedule and early stopping (patience of 4 epochs)
+to prevent overfitting. A multilingual XLM-RoBERTa-large model pre-trained
+by Facebook AI \citep{xlm_roberta} was used as the base model for the
+fine-tuning process. The model achieved a weighted F1 score of 0.78 on a
+held-out test set of 18,221 examples, indicating strong accuracy in
+predicting the substantive focus of multilingual press releases. Full
+results of the model evaluation are presented below. The model has been
+made publicly available on HuggingFace at:
 \url{https://huggingface.co/z-dickson/xlm-roberta-large-political-issues}.
 
 \begin{table}[ht]
-\caption{Classification Report for Fine-tuned XLM-RoBERTa-large Model (Test set: $n = 20{,}421$)}
+\caption{Classification Report for Fine-tuned XLM-RoBERTa-large Model (Test set: $n = 18{,}221$)}
 \centering
 \begin{tabular}{lcccc}
 \hline
 \textbf{Class} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} & \textbf{Support} \\
 \hline
-Macroeconomics               & 0.71 & 0.79 & 0.74 & 1234 \\
-Civil Rights                 & 0.51 & 0.66 & 0.58 &  686 \\
-Health                       & 0.81 & 0.83 & 0.82 & 1026 \\
-Agriculture                  & 0.75 & 0.85 & 0.80 &  357 \\
-Labor                        & 0.70 & 0.79 & 0.74 &  590 \\
-Education                    & 0.79 & 0.80 & 0.80 &  635 \\
-Environment \& Climate Change & 0.59 & 0.71 & 0.64 &  713 \\
-Energy                       & 0.78 & 0.83 & 0.81 &  392 \\
-Immigration                  & 0.67 & 0.76 & 0.71 &  382 \\
-Transportation               & 0.80 & 0.86 & 0.83 &  811 \\
-Law and Crime                & 0.81 & 0.68 & 0.74 & 3196 \\
-Social Welfare               & 0.59 & 0.65 & 0.62 &  645 \\
-Housing                      & 0.74 & 0.82 & 0.78 &  411 \\
-Domestic Commerce            & 0.68 & 0.66 & 0.67 &  960 \\
-Defense                      & 0.77 & 0.75 & 0.76 & 1623 \\
-Technology                   & 0.72 & 0.75 & 0.73 &  569 \\
-Foreign Trade                & 0.46 & 0.65 & 0.54 &  142 \\
-International Affairs        & 0.78 & 0.71 & 0.74 & 1898 \\
-Government Operations        & 0.83 & 0.70 & 0.76 & 3030 \\
-Public Lands                 & 0.54 & 0.77 & 0.64 &  270 \\
-Culture                      & 0.67 & 0.79 & 0.72 &  851 \\
+Macroeconomics               & 0.78 & 0.77 & 0.78 &  965 \\
+Civil Rights                 & 0.59 & 0.67 & 0.63 &  679 \\
+Health                       & 0.84 & 0.86 & 0.85 &  888 \\
+Agriculture                  & 0.81 & 0.82 & 0.81 &  352 \\
+Labor                        & 0.75 & 0.79 & 0.77 &  585 \\
+Education                    & 0.88 & 0.88 & 0.88 &  551 \\
+Environment \& Climate Change & 0.70 & 0.75 & 0.72 &  355 \\
+Energy                       & 0.78 & 0.85 & 0.81 &  377 \\
+Immigration                  & 0.79 & 0.84 & 0.81 &  287 \\
+Transportation               & 0.85 & 0.87 & 0.86 &  817 \\
+Law and Crime                & 0.80 & 0.74 & 0.77 & 2565 \\
+Social Welfare               & 0.74 & 0.80 & 0.76 &  363 \\
+Housing                      & 0.77 & 0.80 & 0.78 &  398 \\
+Domestic Commerce            & 0.68 & 0.71 & 0.70 &  944 \\
+Defense                      & 0.78 & 0.77 & 0.77 & 1574 \\
+Technology                   & 0.74 & 0.76 & 0.75 &  528 \\
+Foreign Trade                & 0.54 & 0.65 & 0.59 &  142 \\
+International Affairs        & 0.78 & 0.77 & 0.77 & 1876 \\
+Government Operations        & 0.84 & 0.77 & 0.80 & 2925 \\
+Public Lands                 & 0.68 & 0.78 & 0.73 &  240 \\
+Culture                      & 0.70 & 0.79 & 0.74 &  810 \\
 \hline
-\textbf{Accuracy}     &       &       & \textbf{0.73} & 20421 \\
-\textbf{Macro Avg}    & 0.70  & 0.75  & 0.72  & 20421 \\
-\textbf{Weighted Avg} & 0.75  & 0.73  & 0.74  & 20421 \\
+\textbf{Accuracy}     &       &       & \textbf{0.78} & 18221 \\
+\textbf{Macro Avg}    & 0.75  & 0.78  & 0.77  & 18221 \\
+\textbf{Weighted Avg} & 0.78  & 0.78  & 0.78  & 18221 \\
 \hline
 \end{tabular}
 
@@ -333,8 +342,8 @@ collected using a web scraping tool that automatically downloaded the
 press releases from the official websites of the political parties. The
 data were then cleaned and pre-processed to remove any irrelevant
 information, such as HTML tags and formatting. The final dataset
-included 585,619 press releases from political parties across 24 EU
-countries and the UK.
+included 570,766 press releases from 127 political parties across 27
+European countries and the UK.
 
 \subsubsection{Caveats/Limitations}\label{caveatslimitations}
 
@@ -344,7 +353,7 @@ health and climate change. The data are also limited to the countries
 included in the analysis, which may not be representative of the entire
 European Union. Additionally, the model used to classify the press
 releases is not perfect and may misclassify some press releases. The
-model was trained on a dataset of over 136,000 examples, but it is
+model was trained on a dataset of 121,473 examples, but it is
 possible that some press releases were misclassified due to the
 complexity of the language used in the press releases. Finally, there
 are differences in the ways in which political parties utilize press
@@ -436,6 +445,65 @@ addressing both climate change and public health by party family,
 \caption{Climate \& Health Nexus (sum): Total number of press releases
 addressing both climate change and public health by party family,
 2010--2025.}
+
+\end{figure}%
+
+\newpage
+
+\begin{figure}[H]
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{indicator_5_3_3_country_climate_change.pdf}}
+
+}
+
+\caption{Climate Change by Country: Share of press releases focused on climate
+change by country, 2010--2025. Countries are coloured by EEA sub-region
+(Western / Eastern / Northern / Southern). Dashed grey lines indicate years
+with fewer than 200 press releases, where proportion estimates are unreliable.}
+
+\end{figure}%
+
+\newpage
+
+\begin{figure}[H]
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{indicator_5_3_3_country_public_health.pdf}}
+
+}
+
+\caption{Public Health by Country: Share of press releases focused on public
+health by country, 2010--2025. Countries are coloured by EEA sub-region.
+Dashed grey lines indicate years with fewer than 200 press releases.}
+
+\end{figure}%
+
+\newpage
+
+\begin{figure}[H]
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{indicator_5_3_3_country_nexus_mean.pdf}}
+
+}
+
+\caption{Climate \& Health Nexus (mean) by Country: Mean share of press releases
+addressing both climate change and public health by country, 2010--2025.
+Countries are coloured by EEA sub-region. Dashed grey lines indicate years
+with fewer than 200 press releases.}
+
+\end{figure}%
+
+\newpage
+
+\begin{figure}[H]
+
+{\centering \pandocbounded{\includegraphics[keepaspectratio]{indicator_5_3_3_country_nexus_sum.pdf}}
+
+}
+
+\caption{Climate \& Health Nexus (sum) by Country: Total number of press releases
+addressing both climate change and public health by country, 2010--2025.
+Countries are coloured by EEA sub-region. Dashed grey lines indicate years
+with fewer than 200 press releases.}
 
 \end{figure}%
 

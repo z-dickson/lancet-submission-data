@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem[Conneau et~al., 2019]{xlm_roberta}
+Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzm{\'{a}}n, F., Grave, E., Ott, M., Zettlemoyer, L., and Stoyanov, V. (2019).
+\newblock Unsupervised cross-lingual representation learning at scale.
+\newblock {\em CoRR}, abs/1911.02116.
+
+\bibitem[Dickson and Hobolt, 2024]{dickson2024going}
+Dickson, Z.~P. and Hobolt, S.~B. (2024).
+\newblock Going against the grain: Climate change as a wedge issue for the radical right.
+\newblock {\em Comparative Political Studies}.
+
+\bibitem[D{\"o}ring and Manow, 2012]{doring2012parliament}
+D{\"o}ring, H. and Manow, P. (2012).
+\newblock Parliament and government composition database (parlgov).
+\newblock {\em An infrastructure for empirical information on parties, elections and governments in modern democracies. Version}, 12(10).
+
+\bibitem[Erfort et~al., 2023]{erfort2023partypress}
+Erfort, C., Stoetzer, L.~F., and Kl{\"u}ver, H. (2023).
+\newblock The partypress database: A new comparative database of parties’ press releases.
+\newblock {\em Research \& Politics}, 10(3).
+
+\bibitem[Walgrave and Boydstun, 2019]{walgrave2019comparative}
+Walgrave, S. and Boydstun, A.~E. (2019).
+\newblock The comparative agendas project.
+\newblock {\em Comparative Policy Agendas: Theory, Tools, Data}, page~35.
+
+\end{thebibliography}
